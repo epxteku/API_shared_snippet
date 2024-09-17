@@ -1,0 +1,206 @@
+[
+  {
+    "id": 3652501241,
+    "name": "Bitcoin",
+    "explorer": "https://mempool.space",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+  },
+  {
+    "id": 1,
+    "name": "Ethereum",
+    "explorer": "https://etherscan.io",
+    "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
+  },
+  {
+    "id": 56,
+    "name": "BNB",
+    "explorer": "https://bscscan.com",
+    "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/info/logo.png"
+  },
+  {
+    "id": 137,
+    "name": "Polygon",
+    "explorer": "https://polygonscan.com",
+    "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png"
+  },
+  {
+    "id": 43114,
+    "name": "Avalanche",
+    "explorer": "https://snowtrace.io",
+    "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchex/info/logo.png"
+  },
+  {
+    "id": 288,
+    "name": "Boba Ethereum",
+    "explorer": "https://eth.bobascan.com",
+    "icon": "https://raw.githubusercontent.com/allush/assets/main/images/blockchains/boba-ethereum/logo.png"
+  },
+  {
+    "id": 56288,
+    "name": "Boba BNB",
+    "explorer": "https://bnb.bobascan.com",
+    "icon": "https://raw.githubusercontent.com/allush/assets/main/images/blockchains/boba-bnb/logo.png"
+  },
+  {
+    "id": 40,
+    "name": "Telos",
+    "explorer": "https://teloscan.io",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/4660.png"
+  },
+  {
+    "id": 2222,
+    "name": "KAVA EVM",
+    "explorer": "https://explorer.kava.io",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/4846.png"
+  },
+  {
+    "id": 324,
+    "name": "ZkSync Era",
+    "explorer": "https://era.zksync.network",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/24091.png"
+  },
+  {
+    "id": 42161,
+    "name": "Arbitrum One",
+    "explorer": "https://arbiscan.io",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png"
+  },
+  {
+    "id": 42170,
+    "name": "Arbitrum Nova",
+    "explorer": "https://nova.arbiscan.io",
+    "icon": "https://l2beat.com/icons/nova.png"
+  },
+  {
+    "id": 10,
+    "name": "Optimism",
+    "explorer": "https://optimistic.etherscan.io",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png"
+  },
+  {
+    "id": 1101,
+    "name": "Polygon zkEVM",
+    "explorer": "https://zkevm.polygonscan.com",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+  },
+  {
+    "id": 728126428,
+    "name": "Tron",
+    "explorer": "https://tronscan.org",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png"
+  },
+  {
+    "id": 59144,
+    "name": "Linea",
+    "explorer": "https://lineascan.build",
+    "icon": "https://l2beat.com/icons/linea.png"
+  },
+  {
+    "id": 5000,
+    "name": "Mantle",
+    "explorer": "https://explorer.mantle.xyz",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/27075.png"
+  },
+  {
+    "id": 8453,
+    "name": "Base",
+    "explorer": "https://basescan.org",
+    "icon": "https://raw.githubusercontent.com/allush/assets/main/images/blockchains/base/logo.png"
+  },
+  {
+    "id": 534352,
+    "name": "Scroll",
+    "explorer": "https://scrollscan.com",
+    "icon": "https://res.cloudinary.com/dzkjyvmsn/image/upload/v1680688496/scroll_p8h6bl.png"
+  },
+  {
+    "id": 169,
+    "name": "Manta",
+    "explorer": "https://pacific-explorer.manta.network",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/13631.png"
+  },
+  {
+    "id": 1088,
+    "name": "Metis",
+    "explorer": "https://explorer.metis.io",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/9640.png"
+  },
+  {
+    "id": 5165,
+    "name": "Bahamut",
+    "explorer": "https://www.ftnscan.com",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/22615.png"
+  },
+  {
+    "id": 34443,
+    "name": "Mode",
+    "explorer": "https://explorer.mode.network",
+    "icon": "https://assets-global.website-files.com/64c906a6ed3c4d809558853b/64d0b081f0331ac3c64c5e4d_flav.png"
+  },
+  {
+    "id": 30,
+    "name": "Rootstock",
+    "explorer": "https://rootstock.blockscout.com",
+    "icon": "https://rootstock.blockscout.com/assets/favicon/favicon-32x32.png"
+  },
+  {
+    "id": 81457,
+    "name": "Blast",
+    "explorer": "https://blastscan.io",
+    "icon": "https://assets.coingecko.com/coins/images/35494/standard/blast2.jpeg?1708919600"
+  },
+  {
+    "id": 4200,
+    "name": "Merlin",
+    "explorer": "https://scan.merlinchain.io",
+    "icon": "https://assets.coingecko.com/asset_platforms/images/188/small/merlin-chain.jpeg?1708522313"
+  },
+  {
+    "id": 810180,
+    "name": "ZkLink",
+    "explorer": "https://explorer.zklink.io",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/13039.png"
+  },
+  {
+    "id": 1116,
+    "name": "CORE",
+    "explorer": "https://scan.coredao.org",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/23254.png"
+  },
+  {
+    "id": 167000,
+    "name": "Taiko",
+    "explorer": "https://taikoscan.io",
+    "icon": "https://taikoscan.io/assets/taiko/images/svg/logos/chain-light.svg?v=24.5.4.0"
+  },
+  {
+    "id": 1329,
+    "name": "Sei v2",
+    "explorer": "https://seitrace.com",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/23149.png"
+  },
+  {
+    "id": 7000,
+    "name": "ZetaChain",
+    "explorer": "https://zetachain.blockscout.com",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/21259.png"
+  },
+  {
+    "id": 25,
+    "name": "Cronos",
+    "explorer": "https://cronoscan.com",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png"
+  },
+  {
+    "id": 252,
+    "name": "Fraxtal",
+    "explorer": "https://fraxscan.com",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/6952.png"
+  },
+  {
+    "id": 1625,
+    "name": "Gravity",
+    "explorer": "https://explorer.gravity.xyz",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/32120.png"
+  }
+]

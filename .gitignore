@@ -1,0 +1,6 @@
+/target
+config/proxy.txt
+config/settings.json
+node_modules/
+request_log.txt
+src/price_update/proxy.txt

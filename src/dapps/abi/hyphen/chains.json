@@ -1,0 +1,630 @@
+{
+  "code": 200,
+  "message": [
+    {
+      "enabled": true,
+      "nativeToken": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "nativeDecimal": 18,
+      "eip1559Supported": true,
+      "baseFeeMultiplier": 1.5,
+      "watchTower": "alchemyWebsocket",
+      "networkAgnosticTransferSupported": false,
+      "tokenPriceToBeCalculated": true,
+      "defaultGasLimitExecutorAutofunding": 24000,
+      "autoFundingEnabled": false,
+      "wrappedNativeTokenAddress": "",
+      "bridgeOpen": true,
+      "poolsOpen": true,
+      "gasTokenSwap": {
+        "supported": false,
+        "gasTokenAmount": "0",
+        "swapSlippage": 0
+      },
+      "sdkConfig": {
+        "metaTransactionSupported": false
+      },
+      "name": "Ethereum",
+      "image": "https://biconomy-public-assets.s3.amazonaws.com/tokens/eth-icon.svg",
+      "chainId": 1,
+      "chainColor": "#C4C4C41A",
+      "currency": "ETH",
+      "gasless": {
+        "enable": false,
+        "apiKey": ""
+      },
+      "topicIds": {
+        "deposit": "0x522e11fa05593b306c8df10d2b0b8e01eec48f9d0a9427a7a93f21ff90d66fb1",
+        "assetSent": "0x6bfd5ee5792d66b151a3fab9f56ee828a0f1c3216d4b752e267cd5590326b15c",
+        "routerSwapForEth": "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822",
+        "swapAndDeposit": "0xe0c1647854700a22165488c301138e1e29036e60ec14c1e78653b1e0c918f874"
+      },
+      "graphUrl": "https://api.thegraph.com/subgraphs/name/divyan73/hyphenethereumv2",
+      "v2GraphUrl": "https://gateway-arbitrum.network.thegraph.com/api/e8148e7f25bbd839ccc71a5516a8d9a4/subgraphs/id/2Gn9pNBeiseHATj8cuDKgbjyM7jRrkyV8fx9ZrSSJc2V",
+      "explorerUrl": "https://etherscan.io",
+      "rpc": "https://eth-mainnet.g.alchemy.com/v2/1OaFf_GaHEiIq39PFKVk7QTTLTBvgp_R",
+      "contracts": {
+        "uniswapRouter": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d",
+        "hyphen": {
+          "tokenManager": "0xe6dbf5861ed9828594Af4C6ea6356411c3A0B168",
+          "liquidityPool": "0x2a5c2568b10a0e826bfa892cf21ba7218310180b",
+          "executorManager": "0xbd761d917fb77381b4398bda89c7f0d9a2bd1399",
+          "lpToken": "0xc49b65e5a350292afda1f239ebefe562668717c2",
+          "liquidityProviders": "0xebab24f13de55789ec1f3ffe99a285754e15f7b9",
+          "liquidityFarming": "0x781f4efc37a08c0ea6631204e46b206330c8c161",
+          "liquidityFarmingV1": "0x781f4efc37a08c0ea6631204e46b206330c8c161",
+          "liquidityFarmingV2": "",
+          "whitelistPeriodManager": "0x684f574ca8c6b52c2b713ad1d1eacddf3976e7eb"
+        },
+        "biconomyForwarders": [
+          "0x84a0856b038eaad1cc7e297cf34a7e72685a8693"
+        ],
+        "gnosisMasterAccount": "0x34cfac646f301356faa8b21e94227e3583fe3f5f",
+        "whiteListedExternalContracts": [
+          "0x0a4061b2511a51c240cd03a3e2f78b99dec48553",
+          "0x6d290609b3f5f02d52f28d97c75a443ed8564cbf",
+          "0xc30141b657f4216252dc59af2e7cdb9d8792e1b0",
+          "0x5a9fd7c39a6c488e715437d7b1f3c823d5596ed1",
+          "0x9dd11f4fc672006ea9e666b6a222c5a8141f2ac0",
+          "0x362fa9d0bca5d19f743db50738345ce2b40ec99f",
+          "0x3332241a5a4ecb4c28239a9731ad45de7f000333",
+          "0x3335a88bb18fd3b6824b59af62b50ce494143333",
+          "0xfc5b37ba0f6a43fd67cdd7f30a2fc1df126a1027",
+          "0xceca0a7c061ae03548349ce6efeff0995b0abbc3",
+          "0x5e2361cd711de7efe2a85045b643271a64262d40",
+          "0x33388cf69e032c6f60a420b37e44b1f5443d3333",
+          "0xd8be5b63938e224415a4cd0d269034bc868347c2",
+          "0xf26055894aeaae23d136defaa355a041a43d7dfd",
+          "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae",
+          "0x703af847700fb4ec3087189901d3541752c4bbb0",
+          "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae",
+          "0x777777773fdd8b28bb03377d10fcea75ad9768da",
+          "0xed8877f8536781d2fc40c1e0054cbeb8fd960ee4",
+          "0xb8cc2126e9fd212f205cb55767d40567d374fede",
+          "0x41f5391b474bfb3688aca4ea3e6bebd8abe7838c",
+          "0xaf7f50d8c86ddfd41c2fdc2e51b2bbbc5abb75da",
+          "0x3a23f943181408eac424116af7b7790c94cb97a5",
+          "0xb0e13022596cce2d0cb60796365e0b27623827b3",
+          "0x6aa981bff95edfea36bdae98c26b274ffcafe8d3",
+          "0x16a7b34353de766ae3e1a8ad0d6a415b4da8a864",
+          "0xda9657d4b73dba5231e5a07652fab8f002baae84",
+          "0x9b11bc9fac17c058cab6286b0c785be6a65492ef"
+        ]
+      }
+    },
+    {
+      "enabled": true,
+      "nativeToken": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "nativeDecimal": 18,
+      "eip1559Supported": true,
+      "baseFeeMultiplier": 1.5,
+      "watchTower": "alchemyWebsocket",
+      "networkAgnosticTransferSupported": true,
+      "tokenPriceToBeCalculated": true,
+      "defaultGasLimitExecutorAutofunding": 24000,
+      "autoFundingEnabled": false,
+      "wrappedNativeTokenAddress": "",
+      "bridgeOpen": true,
+      "poolsOpen": true,
+      "gasTokenSwap": {
+        "supported": false,
+        "gasTokenAmount": "0",
+        "swapSlippage": 0
+      },
+      "sdkConfig": {
+        "metaTransactionSupported": true
+      },
+      "name": "Polygon",
+      "image": "https://biconomy-public-assets.s3.amazonaws.com/tokens/matic-icon.svg",
+      "chainId": 137,
+      "chainColor": "#8247E51A",
+      "currency": "MATIC",
+      "gasless": {
+        "enable": true,
+        "apiKey": "jYEsJEDel.8bc71a9b-4097-4f77-98dc-3a713e3988b9"
+      },
+      "topicIds": {
+        "deposit": "0x522e11fa05593b306c8df10d2b0b8e01eec48f9d0a9427a7a93f21ff90d66fb1",
+        "assetSent": "0x6bfd5ee5792d66b151a3fab9f56ee828a0f1c3216d4b752e267cd5590326b15c",
+        "routerSwapForEth": "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822",
+        "swapAndDeposit": "0xe0c1647854700a22165488c301138e1e29036e60ec14c1e78653b1e0c918f874"
+      },
+      "graphUrl": "https://api.thegraph.com/subgraphs/name/divyan73/hyphenpolygonv2",
+      "v2GraphUrl": "https://gateway-arbitrum.network.thegraph.com/api/e8148e7f25bbd839ccc71a5516a8d9a4/subgraphs/id/CGH3GN5a8JnmUv9FuS5SBLp67f5CCRdg2M3WnooMDsuQ",
+      "explorerUrl": "https://polygonscan.com",
+      "rpc": "https://polygon-mainnet.g.alchemy.com/v2/SsLbrjcZfm-DHu3sWWw08_LjlIiRDdcH",
+      "contracts": {
+        "uniswapRouter": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d",
+        "hyphen": {
+          "tokenManager": "0x79E559AC5b499A5676e28f0074e29763F6c2A27e",
+          "liquidityPool": "0x2a5c2568b10a0e826bfa892cf21ba7218310180b",
+          "executorManager": "0xbd761d917fb77381b4398bda89c7f0d9a2bd1399",
+          "lpToken": "0xc49b65e5a350292afda1f239ebefe562668717c2",
+          "liquidityProviders": "0xebab24f13de55789ec1f3ffe99a285754e15f7b9",
+          "liquidityFarming": "0x781f4efc37a08c0ea6631204e46b206330c8c161",
+          "liquidityFarmingV1": "0x781f4efc37a08c0ea6631204e46b206330c8c161",
+          "liquidityFarmingV2": "",
+          "whitelistPeriodManager": "0x684f574ca8c6b52c2b713ad1d1eacddf3976e7eb"
+        },
+        "biconomyForwarders": [
+          "0x86c80a8aa58e0a4fa09a69624c31ab2a6cad56b8"
+        ],
+        "gnosisMasterAccount": "0x3e5c63644e683549055b9be8653de26e0b4cd36e",
+        "whiteListedExternalContracts": [
+          "0xc8582180f52b6303f51e7028c3a9f428eb43dfe7",
+          "0xca09f09e0f7b93f19e5a29fbe0486606ff32bb4e",
+          "0xc30141b657f4216252dc59af2e7cdb9d8792e1b0",
+          "0x9dd11f4fc672006ea9e666b6a222c5a8141f2ac0",
+          "0x362fa9d0bca5d19f743db50738345ce2b40ec99f",
+          "0xf0adf157c4e7b92ffeab045816560f41ff930dd2",
+          "0xc4c87ac80132ac874993a4607d3fe272f7b18ed0",
+          "0x3332241a5a4ecb4c28239a9731ad45de7f000333",
+          "0x8808d14106558d26fae408511c76c6e0df7dad8a",
+          "0x803fe37ee1f5d905db5560e1c21849c5872dd956",
+          "0xd0d87c834a5902eda3ce18c03bbae4a8ad8cc284",
+          "0x0965ecec2cc3739894c15b8224f6eb85d73b637e",
+          "0x451ea65b89f9d99011d643d99785f8ede936f08e",
+          "0x3335a88bb18fd3b6824b59af62b50ce494143333",
+          "0xa88c77e4d03d2153c2b66eeee2701c2d9a702536",
+          "0xae367776e1fd427fcee64facfe43568691ea7cdc",
+          "0x4fa179796883e1a75e94bee87a1def21f9fc6e94",
+          "0x47863cd2252b7ffd982eb48be9eaa8849cea9ae8",
+          "0xc9b6f5eeabb099bbbfb130b78249e81f70efc946",
+          "0x33388cf69e032c6f60a420b37e44b1f5443d3333",
+          "0x8a2d3a31991c4a183f623499acc26676a528213d",
+          "0x5870f7637d34156ab588a2531d9235617683f8ec",
+          "0xf80dd9cef747710b0bb6a113405eb6bc394ce050",
+          "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae",
+          "0x5ad5ccbe01705df6fffdfff11102738f06a1d29d",
+          "0x777777773fdd8b28bb03377d10fcea75ad9768da",
+          "0xaf5457ebcc6c2afc56f044d9cc2484ec2b34142a",
+          "0xbf590a9e2ad1cd0411571e6153bd5c65e91eaeb8",
+          "0xbce212ea0474f464488e963e793010205175f123",
+          "0x9af2cb98a6b3d3a5cf47a93900ad49c39a008113",
+          "0x8e6abb2ed89b89219fd033adf20275478c4ac27e",
+          "0x5c59718f693b9fdbc7c3d3149581dc3a8435aa54",
+          "0x3a23f943181408eac424116af7b7790c94cb97a5",
+          "0xc18a672a5ba6950d9aa4894dc72b4942b907d1d5",
+          "0x6aa981bff95edfea36bdae98c26b274ffcafe8d3",
+          "0x441f29d66aff1fb52f48279818b689b8e3979847",
+          "0xe5f17f9dfb6d229619c9b36df5efe38c439ba509",
+          "0x9b11bc9fac17c058cab6286b0c785be6a65492ef"
+        ]
+      }
+    },
+    {
+      "enabled": true,
+      "nativeToken": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "nativeDecimal": 18,
+      "eip1559Supported": true,
+      "baseFeeMultiplier": 1.5,
+      "watchTower": "blockWise",
+      "networkAgnosticTransferSupported": false,
+      "tokenPriceToBeCalculated": true,
+      "defaultGasLimitExecutorAutofunding": 24000,
+      "autoFundingEnabled": false,
+      "wrappedNativeTokenAddress": "",
+      "bridgeOpen": true,
+      "poolsOpen": true,
+      "gasTokenSwap": {
+        "supported": false,
+        "gasTokenAmount": "0",
+        "swapSlippage": 0
+      },
+      "sdkConfig": {
+        "metaTransactionSupported": false
+      },
+      "name": "Avalanche",
+      "image": "https://biconomy-public-assets.s3.amazonaws.com/tokens/avax-icon.svg",
+      "chainId": 43114,
+      "chainColor": "#00000010",
+      "currency": "AVAX",
+      "gasless": {
+        "enable": false,
+        "apiKey": ""
+      },
+      "topicIds": {
+        "deposit": "0x522e11fa05593b306c8df10d2b0b8e01eec48f9d0a9427a7a93f21ff90d66fb1",
+        "assetSent": "0x6bfd5ee5792d66b151a3fab9f56ee828a0f1c3216d4b752e267cd5590326b15c",
+        "routerSwapForEth": "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822",
+        "swapAndDeposit": "0xe0c1647854700a22165488c301138e1e29036e60ec14c1e78653b1e0c918f874"
+      },
+      "graphUrl": "https://api.thegraph.com/subgraphs/name/divyan73/hyphen-avalanche",
+      "v2GraphUrl": "https://gateway-arbitrum.network.thegraph.com/api/e8148e7f25bbd839ccc71a5516a8d9a4/subgraphs/id/4uSkJVB3d8X1YpJXfw733nkJAhPFADErUTNj8ptsnzhg",
+      "explorerUrl": "https://snowtrace.io",
+      "rpc": "https://api.avax.network/ext/bc/C/rpc",
+      "contracts": {
+        "uniswapRouter": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d",
+        "hyphen": {
+          "tokenManager": "0x06c8863317F7c53Aeb63BA5465569f28b3406F13",
+          "liquidityPool": "0x2a5c2568b10a0e826bfa892cf21ba7218310180b",
+          "executorManager": "0xbd761d917fb77381b4398bda89c7f0d9a2bd1399",
+          "lpToken": "0xc49b65e5a350292afda1f239ebefe562668717c2",
+          "liquidityProviders": "0xebab24f13de55789ec1f3ffe99a285754e15f7b9",
+          "liquidityFarming": "0x781f4efc37a08c0ea6631204e46b206330c8c161",
+          "liquidityFarmingV1": "0x781f4efc37a08c0ea6631204e46b206330c8c161",
+          "liquidityFarmingV2": "",
+          "whitelistPeriodManager": "0x684f574ca8c6b52c2b713ad1d1eacddf3976e7eb"
+        },
+        "biconomyForwarders": [
+          "0x64cd353384109423a966dcd3aa30d884c9b2e057"
+        ],
+        "gnosisMasterAccount": "",
+        "whiteListedExternalContracts": [
+          "0x2b42affd4b7c14d9b7c2579229495c052672ccd3",
+          "0x5a9fd7c39a6c488e715437d7b1f3c823d5596ed1",
+          "0x9dd11f4fc672006ea9e666b6a222c5a8141f2ac0",
+          "0x362fa9d0bca5d19f743db50738345ce2b40ec99f",
+          "0x1c50fa929e8e28c1333d921b4aa86425bb7b0b73",
+          "0x3332241a5a4ecb4c28239a9731ad45de7f000333",
+          "0x3335a88bb18fd3b6824b59af62b50ce494143333",
+          "0x9995a39465541a6179e22b300a782195779c056d",
+          "0xe93af4d49840b763f5d37594f6e9781c2c06e27d",
+          "0xc0315627bc6404f40188d1fae5a7151650deda10",
+          "0x33388cf69e032c6f60a420b37e44b1f5443d3333",
+          "0xb86a2c60a6d939a08349b4e0147b204487989510",
+          "0x0ee4ebaa115377908a93e2099b459fb03a2094fb",
+          "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae",
+          "0x777777773fdd8b28bb03377d10fcea75ad9768da",
+          "0x2656f88fd74d9d2149dfdd88f8ec74625334e54b",
+          "0x0ff000b8d425199cf756db4fd056b550d5a1fdf8",
+          "0x1030a54366713d3a8fe2acb13a4cfd5e904eaaff",
+          "0x3a23f943181408eac424116af7b7790c94cb97a5",
+          "0xe5ae6c3fd6484069008879eb1eebd88039acce32",
+          "0x6aa981bff95edfea36bdae98c26b274ffcafe8d3",
+          "0x9f5be776024660576b17159b2bb4fee2ee319d5e",
+          "0xeac8a4b1810c2cfae6e194cc7a0e7e17da4a6f3a",
+          "0x9b11bc9fac17c058cab6286b0c785be6a65492ef"
+        ]
+      }
+    },
+    {
+      "enabled": true,
+      "nativeToken": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "nativeDecimal": 18,
+      "eip1559Supported": false,
+      "baseFeeMultiplier": 1.5,
+      "watchTower": "alchemyWebsocket",
+      "networkAgnosticTransferSupported": false,
+      "tokenPriceToBeCalculated": true,
+      "defaultGasLimitExecutorAutofunding": 24000,
+      "autoFundingEnabled": false,
+      "wrappedNativeTokenAddress": "0x4200000000000000000000000000000000000006",
+      "bridgeOpen": true,
+      "poolsOpen": true,
+      "gasTokenSwap": {
+        "supported": true,
+        "gasTokenAmount": "5000000000000000",
+        "swapSlippage": 500
+      },
+      "sdkConfig": {
+        "metaTransactionSupported": false
+      },
+      "name": "Optimism",
+      "image": "https://biconomy-public-assets.s3.amazonaws.com/tokens/optimism-icon.svg",
+      "chainId": 10,
+      "chainColor": "#FF04201A",
+      "currency": "ETH",
+      "gasless": {
+        "enable": false,
+        "apiKey": ""
+      },
+      "topicIds": {
+        "deposit": "0x522e11fa05593b306c8df10d2b0b8e01eec48f9d0a9427a7a93f21ff90d66fb1",
+        "assetSent": "0x6bfd5ee5792d66b151a3fab9f56ee828a0f1c3216d4b752e267cd5590326b15c",
+        "routerSwapForEth": "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822",
+        "swapAndDeposit": "0xe0c1647854700a22165488c301138e1e29036e60ec14c1e78653b1e0c918f874"
+      },
+      "graphUrl": "https://api.thegraph.com/subgraphs/name/shantanu-bico/hyphenv2-liquidity-pool-optimism",
+      "v2GraphUrl": "https://gateway-arbitrum.network.thegraph.com/api/e8148e7f25bbd839ccc71a5516a8d9a4/subgraphs/id/DnNqHaSHB11V4f9QGfU5BVQRnBfCNFBsF9iBfmwR6S6b",
+      "explorerUrl": "https://optimistic.etherscan.io/",
+      "rpc": "https://opt-mainnet.g.alchemy.com/v2/ed6OeqJjcqOnYYsBH7ypYGatHBZziuLy",
+      "contracts": {
+        "uniswapRouter": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d",
+        "hyphen": {
+          "tokenManager": "0x4c5ccff7fa764ce150f07dd9ec9805a7c9260be1",
+          "liquidityPool": "0x856cb5c3cbbe9e2e21293a644aa1f9363cee11e8",
+          "executorManager": "0x9bcf58cd6d22c532e77dcaa196fc45589042bc5b",
+          "lpToken": "0x126be6a9ec71a1fea19d2288ba2ce4cdc0facb68",
+          "liquidityProviders": "0xb4778f5aefeb4605ed96e893417271d4a55e32ee",
+          "liquidityFarming": "0xf46c7d442bc9e279d1e7bc4bfa57813d5f32c239",
+          "liquidityFarmingV1": "0x781f4efc37a08c0ea6631204e46b206330c8c161",
+          "liquidityFarmingV2": "0xf46c7d442bc9e279d1e7bc4bfa57813d5f32c239",
+          "whitelistPeriodManager": "0xfac79f6b18ade2e9973b590472ea9f079af9668e"
+        },
+        "biconomyForwarders": [
+          ""
+        ],
+        "gnosisMasterAccount": "",
+        "whiteListedExternalContracts": [
+          "0xc30141b657f4216252dc59af2e7cdb9d8792e1b0",
+          "0x362fa9d0bca5d19f743db50738345ce2b40ec99f",
+          "0x3332241a5a4ecb4c28239a9731ad45de7f000333",
+          "0x3335a88bb18fd3b6824b59af62b50ce494143333",
+          "0xfd6e5615ae1bcc628bbf11dae9da0710855695f0",
+          "0x61dff4a2a75523767b52b0f6043a7aa96ea80846",
+          "0x49994fbb41c6b7c2f3066ca7301f25305de1234a",
+          "0xe00d67f732e6ed1158553fdbe9c6a151d06bed6c",
+          "0x33388cf69e032c6f60a420b37e44b1f5443d3333",
+          "0xa7b2ff8eaff742b4e543d72033880d5445e1f3be",
+          "0xf762c3fc745948ff49a3da00ccdc6b755e44305e",
+          "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae",
+          "0x777777773fdd8b28bb03377d10fcea75ad9768da",
+          "0x3eece7a5fdda7c6b48c0e0d3da0bee2708626a48",
+          "0xcd399c703ad32f6790c41d617d078b66dd0a4c02",
+          "0x5417f117e4a2283623b3b9a07ec2b2f269d19a75",
+          "0x0ff000b8d425199cf756db4fd056b550d5a1fdf8",
+          "0x1030a54366713d3a8fe2acb13a4cfd5e904eaaff",
+          "0x3a23f943181408eac424116af7b7790c94cb97a5",
+          "0x2ae991c66ce9d9fd4318e67b0b94e2b4170faa5d",
+          "0x6aa981bff95edfea36bdae98c26b274ffcafe8d3",
+          "0x95ae3f1cd52cc49a12f27c1815ea4e372256ec95",
+          "0x589f2ecb4e20c204485e8c9a211a4dda68e12295",
+          "0x9b11bc9fac17c058cab6286b0c785be6a65492ef",
+          "0x777777773491ff5cef6bb758f3baa9d70886909c"
+        ]
+      }
+    },
+    {
+      "enabled": true,
+      "nativeToken": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "nativeDecimal": 18,
+      "eip1559Supported": false,
+      "baseFeeMultiplier": 1.5,
+      "watchTower": "blockWise",
+      "networkAgnosticTransferSupported": false,
+      "tokenPriceToBeCalculated": true,
+      "defaultGasLimitExecutorAutofunding": 24000,
+      "autoFundingEnabled": false,
+      "wrappedNativeTokenAddress": "",
+      "bridgeOpen": true,
+      "poolsOpen": true,
+      "gasTokenSwap": {
+        "supported": false,
+        "gasTokenAmount": "0",
+        "swapSlippage": 0
+      },
+      "sdkConfig": {
+        "metaTransactionSupported": false
+      },
+      "name": "BNB",
+      "image": "https://biconomy-public-assets.s3.amazonaws.com/tokens/bsc-logo.svg",
+      "chainId": 56,
+      "chainColor": "#F0B90B14",
+      "currency": "BNB",
+      "gasless": {
+        "enable": false,
+        "apiKey": ""
+      },
+      "topicIds": {
+        "deposit": "0x522e11fa05593b306c8df10d2b0b8e01eec48f9d0a9427a7a93f21ff90d66fb1",
+        "assetSent": "0x6bfd5ee5792d66b151a3fab9f56ee828a0f1c3216d4b752e267cd5590326b15c",
+        "routerSwapForEth": "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822",
+        "swapAndDeposit": "0xe0c1647854700a22165488c301138e1e29036e60ec14c1e78653b1e0c918f874"
+      },
+      "graphUrl": "https://api.thegraph.com/subgraphs/name/shantanu-bico/hyphenv2-liquidity-pool-bsc",
+      "v2GraphUrl": "https://gateway-arbitrum.network.thegraph.com/api/e8148e7f25bbd839ccc71a5516a8d9a4/subgraphs/id/EMhSR2ix9pXPGBzxpTdNaXLBRENCGe8QUj3ua7Xm66BS",
+      "explorerUrl": "https://bscscan.com",
+      "rpc": "https://bsc-dataseed.binance.org/",
+      "contracts": {
+        "uniswapRouter": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d",
+        "hyphen": {
+          "tokenManager": "0x13a4cc0750296bb72eb0006febec306551a4f472",
+          "liquidityPool": "0x94d3e62151b12a12a4976f60edc18459538faf08",
+          "executorManager": "0xbd761d917fb77381b4398bda89c7f0d9a2bd1399",
+          "lpToken": "0x6cc7e949807c0945afcb2be0c92f42191b31dfd7",
+          "liquidityProviders": "0x279ac60785a2fcb85550eb243b9a42a543171cc7",
+          "liquidityFarming": "0x5c41d1b06ae6099a2205b50918e44b566afd9556",
+          "liquidityFarmingV1": "0x5c41d1b06ae6099a2205b50918e44b566afd9556",
+          "liquidityFarmingV2": "",
+          "whitelistPeriodManager": "0xdc5ac79ad5b113b979bb57ff7e9b43a822da45e4"
+        },
+        "biconomyForwarders": [
+          "0x86c80a8aa58e0a4fa09a69624c31ab2a6cad56b8"
+        ],
+        "gnosisMasterAccount": "",
+        "whiteListedExternalContracts": [
+          "0xc30141b657f4216252dc59af2e7cdb9d8792e1b0",
+          "0x9dd11f4fc672006ea9e666b6a222c5a8141f2ac0",
+          "0x362fa9d0bca5d19f743db50738345ce2b40ec99f",
+          "0xd1b1d57ff7a188de088ee63541d0dd9486f2db44",
+          "0xb2e12ed01989103043e699679238fd1868738e89",
+          "0x3332241a5a4ecb4c28239a9731ad45de7f000333",
+          "0x7716087f067d05b92ac31d5d973df3ea97f9cbbe",
+          "0x3335a88bb18fd3b6824b59af62b50ce494143333",
+          "0x905f9c3a581a89d7745da6b7e456eeb2b1589838",
+          "0x61dff4a2a75523767b52b0f6043a7aa96ea80846",
+          "0x5f3cf896c1e18550389ee4c6b298907649129f21",
+          "0x40a35dfb51133fae1566bc59f305cb6f44d22d15",
+          "0x3ec389511af4af02c9f3723c0fdeb105d1cc5a9c",
+          "0x33388cf69e032c6f60a420b37e44b1f5443d3333",
+          "0xa25cc478c41b6864982ecc22fc058976f40f8b1b",
+          "0x4f80101973737089cbd076830c7af84b877771a0",
+          "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae",
+          "0x777777773fdd8b28bb03377d10fcea75ad9768da",
+          "0x168b96194437ba18216629542bbdb5c55bbde95d",
+          "0x7040817e856be0056d6b1270682592b678973af3",
+          "0xbce212ea0474f464488e963e793010205175f123",
+          "0x8fcbe72710185dd34a8bbba1cc05eb2628945fec",
+          "0x6fd5d79e7ec1879ae0917e99fb10461f7df6de48",
+          "0x1030a54366713d3a8fe2acb13a4cfd5e904eaaff",
+          "0x3a23f943181408eac424116af7b7790c94cb97a5",
+          "0x2ae991c66ce9d9fd4318e67b0b94e2b4170faa5d",
+          "0x6aa981bff95edfea36bdae98c26b274ffcafe8d3",
+          "0x65244aba8975487cc515cbf5600155c8c8456257",
+          "0xb1b3ab4327020959d1243536cfed69fa21b8c0c6",
+          "0x9b11bc9fac17c058cab6286b0c785be6a65492ef"
+        ]
+      }
+    },
+    {
+      "enabled": true,
+      "nativeToken": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "nativeDecimal": 18,
+      "eip1559Supported": false,
+      "baseFeeMultiplier": 1.5,
+      "watchTower": "alchemyWebsocket",
+      "networkAgnosticTransferSupported": false,
+      "tokenPriceToBeCalculated": true,
+      "defaultGasLimitExecutorAutofunding": 800000,
+      "autoFundingEnabled": false,
+      "wrappedNativeTokenAddress": "",
+      "bridgeOpen": true,
+      "poolsOpen": true,
+      "gasTokenSwap": {
+        "supported": false,
+        "gasTokenAmount": "0",
+        "swapSlippage": 0
+      },
+      "sdkConfig": {
+        "metaTransactionSupported": false
+      },
+      "name": "Arbitrum",
+      "image": "https://biconomy-public-assets.s3.amazonaws.com/assets/arbitrum.svg",
+      "chainId": 42161,
+      "chainColor": "#28A0F01E",
+      "currency": "ETH",
+      "gasless": {
+        "enable": false,
+        "apiKey": ""
+      },
+      "topicIds": {
+        "deposit": "0x522e11fa05593b306c8df10d2b0b8e01eec48f9d0a9427a7a93f21ff90d66fb1",
+        "assetSent": "0x6bfd5ee5792d66b151a3fab9f56ee828a0f1c3216d4b752e267cd5590326b15c",
+        "routerSwapForEth": "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822",
+        "swapAndDeposit": "0xe0c1647854700a22165488c301138e1e29036e60ec14c1e78653b1e0c918f874"
+      },
+      "graphUrl": "https://api.thegraph.com/subgraphs/name/shantanu-bico/hyphenv2-liquidity-pool-arbitrum",
+      "v2GraphUrl": "https://gateway-arbitrum.network.thegraph.com/api/e8148e7f25bbd839ccc71a5516a8d9a4/subgraphs/id/77Pe2KneUx5m8BdVzYCA2fopm6j6WCskms2KuU7VeJ6f",
+      "explorerUrl": "https://arbiscan.io/",
+      "rpc": "https://arb1.arbitrum.io/rpc",
+      "contracts": {
+        "uniswapRouter": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d",
+        "hyphen": {
+          "tokenManager": "0x4c5ccff7fa764ce150f07dd9ec9805a7c9260be1",
+          "liquidityPool": "0x856cb5c3cbbe9e2e21293a644aa1f9363cee11e8",
+          "executorManager": "0x9bcf58cd6d22c532e77dcaa196fc45589042bc5b",
+          "lpToken": "0x126be6a9ec71a1fea19d2288ba2ce4cdc0facb68",
+          "liquidityProviders": "0xb4778f5aefeb4605ed96e893417271d4a55e32ee",
+          "liquidityFarming": "0xf46c7d442bc9e279d1e7bc4bfa57813d5f32c239",
+          "liquidityFarmingV1": "0x781f4efc37a08c0ea6631204e46b206330c8c161",
+          "liquidityFarmingV2": "0xf46c7d442bc9e279d1e7bc4bfa57813d5f32c239",
+          "whitelistPeriodManager": "0xfac79f6b18ade2e9973b590472ea9f079af9668e"
+        },
+        "biconomyForwarders": [
+          "0xfe0fa3C06d03bDC7fb49c892BbB39113B534fB57"
+        ],
+        "gnosisMasterAccount": "",
+        "whiteListedExternalContracts": [
+          "0xc30141b657f4216252dc59af2e7cdb9d8792e1b0",
+          "0x4108ef56f00eb75670180c9b0db7a229466fead5",
+          "0x362fa9d0bca5d19f743db50738345ce2b40ec99f",
+          "0x3332241a5a4ecb4c28239a9731ad45de7f000333",
+          "0x2333722ba53d11cd76899b1c04a26949617f2254",
+          "0x3335a88bb18fd3b6824b59af62b50ce494143333",
+          "0x37da9463cb33857bb40d2cc5ca73d559c2a6e5e9",
+          "0x7e486de56b18e0ebe156b9d264e3e933242eb5df",
+          "0x7d4323f3e0ae0e8dc5c3bfe673e81abefc6eb34e",
+          "0x8b14984de0ddd2e080d8679febe2f5c94b975af8",
+          "0x33388cf69e032c6f60a420b37e44b1f5443d3333",
+          "0xc9d2510c0c897bd08a893208783f8edd00db6d16",
+          "0x696c91cdc3e79a74785c2cdd07ccc1bf0bc7b788",
+          "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae",
+          "0x777777773fdd8b28bb03377d10fcea75ad9768da",
+          "0x49cad6da884b476179db105fd983566f98ff9e66",
+          "0x651be2029a390bae194f3268d6fa3a034476e884",
+          "0xfeedb6f87ab4b05dc6ab6ef75547c22235e7b642",
+          "0x3238a6de06cf949897ca580adb82aa6aa6d300cd",
+          "0x1030a54366713d3a8fe2acb13a4cfd5e904eaaff",
+          "0x3a23f943181408eac424116af7b7790c94cb97a5",
+          "0x87fee2b0d79d5e6ab63ee815d01335f9fbca0420",
+          "0x6aa981bff95edfea36bdae98c26b274ffcafe8d3",
+          "0x441f29d66aff1fb52f48279818b689b8e3979847",
+          "0x959ad92eadd9e166fc98f504524458b9b68e9090",
+          "0x9b11bc9fac17c058cab6286b0c785be6a65492ef",
+          "0x777777773491ff5cef6bb758f3baa9d70886909c"
+        ]
+      }
+    },
+    {
+      "enabled": true,
+      "nativeToken": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "nativeDecimal": 18,
+      "eip1559Supported": false,
+      "baseFeeMultiplier": 1.5,
+      "watchTower": "blockWise",
+      "networkAgnosticTransferSupported": false,
+      "tokenPriceToBeCalculated": true,
+      "defaultGasLimitExecutorAutofunding": 24000,
+      "autoFundingEnabled": false,
+      "wrappedNativeTokenAddress": "",
+      "bridgeOpen": true,
+      "poolsOpen": true,
+      "gasTokenSwap": {
+        "supported": false,
+        "gasTokenAmount": "0",
+        "swapSlippage": 0
+      },
+      "sdkConfig": {
+        "metaTransactionSupported": false
+      },
+      "name": "Fantom",
+      "image": "https://biconomy-public-assets.s3.amazonaws.com/assets/fantom.svg",
+      "chainId": 250,
+      "chainColor": "#3367F626",
+      "currency": "FTM",
+      "gasless": {
+        "enable": false,
+        "apiKey": ""
+      },
+      "topicIds": {
+        "deposit": "0x522e11fa05593b306c8df10d2b0b8e01eec48f9d0a9427a7a93f21ff90d66fb1",
+        "assetSent": "0x6bfd5ee5792d66b151a3fab9f56ee828a0f1c3216d4b752e267cd5590326b15c",
+        "routerSwapForEth": "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822",
+        "swapAndDeposit": "0xe0c1647854700a22165488c301138e1e29036e60ec14c1e78653b1e0c918f874"
+      },
+      "graphUrl": "https://api.thegraph.com/subgraphs/name/shantanu-bico/hyphenv2-liquidity-pool-fantom",
+      "v2GraphUrl": "https://gateway-arbitrum.network.thegraph.com/api/e8148e7f25bbd839ccc71a5516a8d9a4/subgraphs/id/2vsnT8SNQTFS1F7zBHzjhd6XUh9cte64vj4gXM7FDA2N",
+      "explorerUrl": "https://ftmscan.com/",
+      "rpc": "https://rpc.ankr.com/fantom/",
+      "contracts": {
+        "uniswapRouter": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d",
+        "hyphen": {
+          "tokenManager": "0x4C5ccFf7FA764cE150f07Dd9Ec9805a7c9260BE1",
+          "liquidityPool": "0x856cb5c3cBBe9e2E21293A644aA1f9363CEE11E8",
+          "executorManager": "0x9Bcf58cD6d22c532e77DCAA196fC45589042Bc5B",
+          "lpToken": "0x126bE6a9ec71A1FeA19D2288Ba2Ce4cDC0faCB68",
+          "liquidityProviders": "0xb4778f5aeFEb4605Ed96E893417271d4A55E32eE",
+          "liquidityFarming": "0xF46c7d442Bc9e279d1E7bC4Bfa57813D5F32c239",
+          "liquidityFarmingV1": "0x781f4efc37a08c0ea6631204e46b206330c8c161",
+          "liquidityFarmingV2": "0xF46c7d442Bc9e279d1E7bC4Bfa57813D5F32c239",
+          "whitelistPeriodManager": "0xFAC79F6B18Ade2E9973B590472Ea9f079AF9668e"
+        },
+        "biconomyForwarders": [
+          "0x64CD353384109423a966dCd3Aa30D884C9b2E057"
+        ],
+        "gnosisMasterAccount": "",
+        "whiteListedExternalContracts": [
+          "0x3335a88bb18fd3b6824b59af62b50ce494143333",
+          "0x7b62099a45cee01d1b103988c23c3da4a3e8da26",
+          "0x4fa179796883e1a75e94bee87a1def21f9fc6e94",
+          "0xcc6c81d5f0d2a4fabeb2cf6dac9ee2121dc3fc91",
+          "0x5adde24b6a11b86c23a4f61c236a8795bd4aa2bb",
+          "0x33388cf69e032c6f60a420b37e44b1f5443d3333",
+          "0x6596cea632b2d37f6db796f6790fbd29b906c866",
+          "0x66a6b69e41c502638973a294acf12c6f16f4c415",
+          "0xc30141b657f4216252dc59af2e7cdb9d8792e1b0",
+          "0x777777773fdd8b28bb03377d10fcea75ad9768da",
+          "0x8ce2463113048a200c5e623bf2b0e3e6a3e982d4",
+          "0x31416eabef23ddb20700a342f4dda310f3c38987",
+          "0x1030a54366713d3a8fe2acb13a4cfd5e904eaaff",
+          "0x3a23f943181408eac424116af7b7790c94cb97a5",
+          "0x5f008ef8be590cead646014ce08f96f181ca2349",
+          "0x6aa981bff95edfea36bdae98c26b274ffcafe8d3",
+          "0x95ae3f1cd52cc49a12f27c1815ea4e372256ec95",
+          "0x9f75567e9bdae7730bacc9e5b10e39c7f4efa3a8",
+          "0x9b11bc9fac17c058cab6286b0c785be6a65492ef"
+        ]
+      }
+    }
+  ]
+}

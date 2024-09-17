@@ -1,0 +1,2804 @@
+{
+  "data": [
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2021-09-21T00:25:30.790797+00:00"
+        },
+        {
+          "symbol": "USDC.e",
+          "display_asset": "USDC.e",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.e.png",
+          "contract": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+          "decimals": 6,
+          "price_in_usd": 1.001,
+          "precision": 6,
+          "listing_date": "2022-04-20T13:54:28.688504+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2024-01-25T13:38:04.822198+00:00"
+        },
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+          "decimals": 6,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2023-01-12T13:57:47.571206+00:00"
+        }
+      ],
+      "name": "ARBITRUM_MAINNET",
+      "display_name": "Arbitrum One",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/arbitrum_mainnet.png",
+      "chain_id": "42161",
+      "node_url": "https://arb1.arbitrum.io/rpc",
+      "type": "evm",
+      "transaction_explorer_template": "https://arbiscan.io/tx/{0}",
+      "account_explorer_template": "https://arbiscan.io/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2021-09-21T00:25:30.790797+00:00"
+      },
+      "metadata": {
+        "listing_date": "2021-09-20T20:00:00+00:00",
+        "evm_multicall_contract": "0xca11bde05977b3631167028862be2a173976ca11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2022-08-11T12:33:49.777882+00:00"
+        }
+      ],
+      "name": "ARBITRUMNOVA_MAINNET",
+      "display_name": "Arbitrum Nova",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/arbitrumnova_mainnet.png",
+      "chain_id": "42170",
+      "node_url": "https://arbitrum-nova.public.blastapi.io",
+      "type": "evm",
+      "transaction_explorer_template": "https://nova.arbiscan.io/tx/{0}",
+      "account_explorer_template": "https://nova.arbiscan.io/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2022-08-11T12:33:49.777882+00:00"
+      },
+      "metadata": {
+        "listing_date": "2022-08-10T20:00:00+00:00",
+        "evm_multicall_contract": "0xca11bde05977b3631167028862be2a173976ca11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2024-03-12T17:19:22.958634+00:00"
+        }
+      ],
+      "name": "ASTARZK_MAINNET",
+      "display_name": "Astar zkEVM",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/astarzk_mainnet.png",
+      "chain_id": "3776",
+      "node_url": "https://rpc.startale.com/astar-zkevm",
+      "type": "evm",
+      "transaction_explorer_template": "https://astar-zkevm.explorer.startale.com/tx/{0}",
+      "account_explorer_template": "https://astar-zkevm.explorer.startale.com/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2024-03-12T17:19:22.958634+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-03-12T12:54:18.042327+00:00",
+        "evm_multicall_contract": "0xcA11bde05977b3631167028862bE2a173976CA11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+          "decimals": 6,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2024-05-13T10:53:07.223534+00:00"
+        },
+        {
+          "symbol": "WETH.e",
+          "display_asset": "WETH.e",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/weth.e.png",
+          "contract": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+          "decimals": 18,
+          "price_in_usd": 2280.96,
+          "precision": 8,
+          "listing_date": "2024-02-01T16:46:46.953315+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-05-29T13:20:12.663583+00:00"
+        },
+        {
+          "symbol": "USDC.e",
+          "display_asset": "USDC.e",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.e.png",
+          "contract": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+          "decimals": 6,
+          "price_in_usd": 1.001,
+          "precision": 6,
+          "listing_date": "2024-02-27T14:15:05.937+00:00"
+        },
+        {
+          "symbol": "AVAX",
+          "display_asset": "AVAX",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/avax.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 23.43,
+          "precision": 8,
+          "listing_date": "2023-08-01T18:54:45.790489+00:00"
+        }
+      ],
+      "name": "AVAX_MAINNET",
+      "display_name": "Avalanche",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/avax_mainnet.png",
+      "chain_id": "43114",
+      "node_url": "https://ava-mainnet.public.blastapi.io/ext/bc/C/rpc",
+      "type": "evm",
+      "transaction_explorer_template": "https://snowtrace.io/tx/{0}",
+      "account_explorer_template": "https://snowtrace.io/address/{0}",
+      "token": {
+        "symbol": "AVAX",
+        "display_asset": "AVAX",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/avax.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 23.43,
+        "precision": 8,
+        "listing_date": "2023-08-01T18:54:45.790489+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-05-28T20:00:00+00:00",
+        "evm_multicall_contract": "0xca11bde05977b3631167028862be2a173976ca11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "USDbC",
+          "display_asset": "USDbC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdbc.png",
+          "contract": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
+          "decimals": 6,
+          "price_in_usd": 0.997072,
+          "precision": 6,
+          "listing_date": "2023-09-14T16:21:22.07463+00:00"
+        },
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2023-08-02T10:56:49.590891+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-09-14T16:21:22.07463+00:00"
+        }
+      ],
+      "name": "BASE_MAINNET",
+      "display_name": "Base",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/base_mainnet.png",
+      "chain_id": "8453",
+      "node_url": "https://base-mainnet.public.blastapi.io",
+      "type": "evm",
+      "transaction_explorer_template": "https://basescan.org/tx/{0}",
+      "account_explorer_template": "https://basescan.org/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2023-08-02T10:56:49.590891+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-08-01T20:00:00+00:00",
+        "evm_oracle_contract": "0x420000000000000000000000000000000000000F",
+        "evm_multicall_contract": "0xca11bde05977b3631167028862be2a173976ca11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2024-03-01T16:14:12.28049+00:00"
+        }
+      ],
+      "name": "BLAST_MAINNET",
+      "display_name": "Blast",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/blast_mainnet.png",
+      "chain_id": "81457",
+      "node_url": "https://blastl2-mainnet.public.blastapi.io",
+      "type": "evm",
+      "transaction_explorer_template": "https://blastscan.io/tx/{0}",
+      "account_explorer_template": "https://blastscan.io/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2024-03-01T16:14:12.28049+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-03-01T15:44:02.686762+00:00",
+        "evm_oracle_contract": "0x420000000000000000000000000000000000000F",
+        "evm_multicall_contract": "0xcA11bde05977b3631167028862bE2a173976CA11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2024-05-08T11:29:15.249048+00:00"
+        }
+      ],
+      "name": "BOB_MAINNET",
+      "display_name": "Bob",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/bob_mainnet.png",
+      "chain_id": "60808",
+      "node_url": "https://rpc.gobob.xyz/",
+      "type": "evm",
+      "transaction_explorer_template": "https://explorer.gobob.xyz/tx/{0}",
+      "account_explorer_template": "https://explorer.gobob.xyz/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2024-05-08T11:29:15.249048+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-05-08T11:20:29.878972+00:00",
+        "evm_oracle_contract": "0x420000000000000000000000000000000000000F",
+        "evm_multicall_contract": "0xcA11bde05977b3631167028862bE2a173976CA11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": null,
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-09-26T12:36:16.471609+00:00"
+        }
+      ],
+      "name": "BRINE_MAINNET",
+      "display_name": "tanX",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/brine_mainnet.png",
+      "chain_id": "mainnet",
+      "node_url": null,
+      "type": "starkex",
+      "transaction_explorer_template": "https://trade.tanx.fi/wallet",
+      "account_explorer_template": "https://trade.tanx.fi/wallet",
+      "token": null,
+      "metadata": {
+        "listing_date": "2023-09-25T20:00:00+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2022-11-10T14:00:39.596247+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+          "decimals": 18,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-01-12T13:57:47.252398+00:00"
+        },
+        {
+          "symbol": "LRC",
+          "display_asset": "LRC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/lrc.png",
+          "contract": "0x66e4d38b20173F509A1fF5d82866949e4fE898da",
+          "decimals": 18,
+          "price_in_usd": 0.114633,
+          "precision": 8,
+          "listing_date": "2023-02-17T10:19:08.288519+00:00"
+        },
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "0x55d398326f99059fF775485246999027B3197955",
+          "decimals": 18,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2022-11-10T13:54:23.000305+00:00"
+        },
+        {
+          "symbol": "BNB",
+          "display_asset": "BNB",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/bnb.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 541.33,
+          "precision": 8,
+          "listing_date": "2023-08-01T18:54:45.790489+00:00"
+        },
+        {
+          "symbol": "SNX",
+          "display_asset": "SNX",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/snx.png",
+          "contract": "0x9Ac983826058b8a9C7Aa1C9171441191232E8404",
+          "decimals": 18,
+          "price_in_usd": 1.34,
+          "precision": 8,
+          "listing_date": "2023-01-12T13:57:47.252398+00:00"
+        }
+      ],
+      "name": "BSC_MAINNET",
+      "display_name": "BSC",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/bsc_mainnet.png",
+      "chain_id": "56",
+      "node_url": "https://lb.drpc.org/ogrpc?network=bsc&dkey=ArPkRplEc0Blq_2CpG9Z__4Tj6aBjcER7qzvYkscDoZX",
+      "type": "evm",
+      "transaction_explorer_template": "https://bscscan.com/tx/{0}",
+      "account_explorer_template": "https://bscscan.com/address/{0}",
+      "token": {
+        "symbol": "BNB",
+        "display_asset": "BNB",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/bnb.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 541.33,
+        "precision": 8,
+        "listing_date": "2023-08-01T18:54:45.790489+00:00"
+      },
+      "metadata": {
+        "listing_date": "2022-11-09T20:00:00+00:00",
+        "evm_multicall_contract": "0xca11bde05977b3631167028862be2a173976ca11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "LRC",
+          "display_asset": "LRC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/lrc.png",
+          "contract": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+          "decimals": 18,
+          "price_in_usd": 0.114633,
+          "precision": 8,
+          "listing_date": "2023-01-12T13:57:46.771305+00:00"
+        },
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "decimals": 6,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2023-01-12T13:57:46.771305+00:00"
+        },
+        {
+          "symbol": "STRK",
+          "display_asset": "STRK",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/strk.png",
+          "contract": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+          "decimals": 18,
+          "price_in_usd": 0.374894,
+          "precision": 8,
+          "listing_date": "2024-07-08T12:44:23.99752+00:00"
+        },
+        {
+          "symbol": "ASTR",
+          "display_asset": "ASTR",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/astr.png",
+          "contract": "0x9bBAf650DcD8D3583195715Fc46b1118c3CfDdfd",
+          "decimals": 18,
+          "price_in_usd": 0.057845,
+          "precision": 8,
+          "listing_date": "2023-01-12T13:57:46.771305+00:00"
+        },
+        {
+          "symbol": "BKT",
+          "display_asset": "BKT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/bkt.png",
+          "contract": "0x9d62526f5Ce701950c30F2cACa70Edf70f9fbf0F",
+          "decimals": 18,
+          "price_in_usd": 0.00018693,
+          "precision": 8,
+          "listing_date": "2023-01-12T13:57:46.771305+00:00"
+        },
+        {
+          "symbol": "DAI",
+          "display_asset": "DAI",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/dai.png",
+          "contract": "0x6b175474e89094c44da98b954eedeac495271d0f",
+          "decimals": 18,
+          "price_in_usd": 0.998884,
+          "precision": 8,
+          "listing_date": "2024-08-29T15:21:04.486634+00:00"
+        },
+        {
+          "symbol": "GOG",
+          "display_asset": "GOG",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/gog.png",
+          "contract": "0x9AB7bb7FdC60f4357ECFef43986818A2A3569c62",
+          "decimals": 18,
+          "price_in_usd": 0.0318231,
+          "precision": 8,
+          "listing_date": "2024-05-29T13:03:16.618+00:00"
+        },
+        {
+          "symbol": "IMX",
+          "display_asset": "IMX",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/imx.png",
+          "contract": "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
+          "decimals": 18,
+          "price_in_usd": 1.22,
+          "precision": 8,
+          "listing_date": "2023-01-12T13:57:46.771305+00:00"
+        },
+        {
+          "symbol": "SNX",
+          "display_asset": "SNX",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/snx.png",
+          "contract": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+          "decimals": 18,
+          "price_in_usd": 1.34,
+          "precision": 8,
+          "listing_date": "2023-01-12T13:57:46.771305+00:00"
+        },
+        {
+          "symbol": "TON",
+          "display_asset": "TON",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/ton.png",
+          "contract": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+          "decimals": 9,
+          "price_in_usd": 5.44,
+          "precision": 6,
+          "listing_date": "2024-05-16T13:03:16.618755+00:00"
+        },
+        {
+          "symbol": "ZKS",
+          "display_asset": "ZKS",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/zks.png",
+          "contract": "0xe4815AE53B124e7263F08dcDBBB757d41Ed658c6",
+          "decimals": 18,
+          "price_in_usd": 0.03003976,
+          "precision": 8,
+          "listing_date": "2023-01-12T13:57:46.771305+00:00"
+        },
+        {
+          "symbol": "CTA",
+          "display_asset": "CTA",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/cta.png",
+          "contract": "0x90685e300A4c4532EFCeFE91202DfE1Dfd572F47",
+          "decimals": 18,
+          "price_in_usd": 0.111074,
+          "precision": 8,
+          "listing_date": "2024-05-15T10:59:11.237529+00:00"
+        },
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2022-05-29T17:30:19.14963+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-01-12T13:57:46.771305+00:00"
+        }
+      ],
+      "name": "ETHEREUM_MAINNET",
+      "display_name": "Ethereum",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/ethereum_mainnet.png",
+      "chain_id": "1",
+      "node_url": "https://eth-mainnet.public.blastapi.io",
+      "type": "evm",
+      "transaction_explorer_template": "https://etherscan.io/tx/{0}",
+      "account_explorer_template": "https://etherscan.io/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2022-05-29T17:30:19.14963+00:00"
+      },
+      "metadata": {
+        "listing_date": "2022-05-28T20:00:00+00:00",
+        "evm_multicall_contract": "0xca11bde05977b3631167028862be2a173976ca11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "axlUSDC",
+          "display_asset": "axlUSDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/axlusdc.png",
+          "contract": "0x15c3eb3b621d1bff62cba1c9536b7c1ae9149b57",
+          "decimals": 6,
+          "price_in_usd": 0.997686,
+          "precision": 6,
+          "listing_date": "2023-08-07T12:14:18.887806+00:00"
+        },
+        {
+          "symbol": "EVMOS",
+          "display_asset": "EVMOS",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/evmos.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 0.02123295,
+          "precision": 8,
+          "listing_date": "2023-08-07T12:14:18.965408+00:00"
+        }
+      ],
+      "name": "EVMOS_MAINNET",
+      "display_name": "Evmos",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/evmos_mainnet.png",
+      "chain_id": "9001",
+      "node_url": "https://evmos-mainnet.public.blastapi.io",
+      "type": "evm",
+      "transaction_explorer_template": "https://escan.live/tx/{0}",
+      "account_explorer_template": "https://escan.live/address/{0}",
+      "token": {
+        "symbol": "EVMOS",
+        "display_asset": "EVMOS",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/evmos.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 0.02123295,
+        "precision": 8,
+        "listing_date": "2023-08-07T12:14:18.965408+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-08-06T20:00:00+00:00",
+        "evm_multicall_contract": "0xcA11bde05977b3631167028862bE2a173976CA11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "WETH",
+          "display_asset": "WETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/weth.png",
+          "contract": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
+          "decimals": 18,
+          "price_in_usd": 2280.96,
+          "precision": 8,
+          "listing_date": "2024-08-28T15:09:58.090584+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0x28C3d1cD466Ba22f6cae51b1a4692a831696391A",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2024-02-27T13:32:05.350291+00:00"
+        },
+        {
+          "symbol": "FUSE",
+          "display_asset": "FUSE",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/fuse.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 0.02573501,
+          "precision": 8,
+          "listing_date": "2023-08-01T18:54:45.790489+00:00"
+        }
+      ],
+      "name": "FUSE_MAINNET",
+      "display_name": "Fuse",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/fuse_mainnet.png",
+      "chain_id": "122",
+      "node_url": "https://rpc.fuse.io",
+      "type": "evm",
+      "transaction_explorer_template": "https://explorer.fuse.io/tx/{0}",
+      "account_explorer_template": "https://explorer.fuse.io/address/{0}",
+      "token": {
+        "symbol": "FUSE",
+        "display_asset": "FUSE",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/fuse.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 0.02573501,
+        "precision": 8,
+        "listing_date": "2023-08-01T18:54:45.790489+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-03-13T20:00:00+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "WETH",
+          "display_asset": "WETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/weth.png",
+          "contract": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
+          "decimals": 18,
+          "price_in_usd": 2280.96,
+          "precision": 8,
+          "listing_date": "2024-08-28T13:36:34.710594+00:00"
+        },
+        {
+          "symbol": "USDC.e",
+          "display_asset": "USDC.e",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.e.png",
+          "contract": "0x2a22f9c3b484c3629090FeED35F17Ff8F88f76F0",
+          "decimals": 6,
+          "price_in_usd": 1.001,
+          "precision": 6,
+          "listing_date": "2024-09-04T13:57:22.511306+00:00"
+        },
+        {
+          "symbol": "USDC(old)",
+          "display_asset": "USD//C",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc(old).png",
+          "contract": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+          "decimals": 6,
+          "price_in_usd": 0.999248,
+          "precision": 6,
+          "listing_date": "2024-09-04T13:58:45.810794+00:00"
+        },
+        {
+          "symbol": "xDAI",
+          "display_asset": "xDAI",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/xdai.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 1,
+          "precision": 8,
+          "listing_date": "2024-06-26T15:24:56.007004+00:00"
+        }
+      ],
+      "name": "GNOSIS_MAINNET",
+      "display_name": "Gnosis",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/gnosis_mainnet.png",
+      "chain_id": "100",
+      "node_url": "https://rpc.gnosischain.com/",
+      "type": "evm",
+      "transaction_explorer_template": "https://gnosisscan.io/tx/{0}",
+      "account_explorer_template": "https://gnosisscan.io/address/{0}",
+      "token": {
+        "symbol": "xDAI",
+        "display_asset": "xDAI",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/xdai.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 1,
+        "precision": 8,
+        "listing_date": "2024-06-26T15:24:56.007004+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-06-26T15:21:04.787983+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "WETH",
+          "display_asset": "",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/weth.png",
+          "contract": "0xf6f832466Cd6C21967E0D954109403f36Bc8ceaA",
+          "decimals": 18,
+          "price_in_usd": 2280.96,
+          "precision": 8,
+          "listing_date": "2024-09-05T15:02:15.679085+00:00"
+        },
+        {
+          "symbol": "G",
+          "display_asset": "",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/g.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 0.03445301,
+          "precision": 8,
+          "listing_date": "2024-09-05T15:04:33.916378+00:00"
+        }
+      ],
+      "name": "GRAVITY_MAINNET",
+      "display_name": "Gravity",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/gravity_mainnet.png",
+      "chain_id": "1625",
+      "node_url": "https://rpc.gravity.xyz\t",
+      "type": "evm",
+      "transaction_explorer_template": "https://explorer.gravity.xyz/tx/{0}",
+      "account_explorer_template": "https://explorer.gravity.xyz/address/{0}",
+      "token": {
+        "symbol": "G",
+        "display_asset": "",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/g.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 0.03445301,
+        "precision": 8,
+        "listing_date": "2024-09-05T15:04:33.916378+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-09-05T14:59:22.748761+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-02-23T10:34:33.056881+00:00"
+        },
+        {
+          "symbol": "HT",
+          "display_asset": "HT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/ht.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 0.470005,
+          "precision": 8,
+          "listing_date": "2023-08-01T18:54:45.790489+00:00"
+        },
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+          "decimals": 18,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2023-02-23T10:34:33.133766+00:00"
+        },
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2023-02-23T10:33:19.402152+00:00"
+        },
+        {
+          "symbol": "LRC",
+          "display_asset": "LRC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/lrc.png",
+          "contract": "0xbf22f76657601a522cf9ac832718a3404302d6bc",
+          "decimals": 18,
+          "price_in_usd": 0.114633,
+          "precision": 8,
+          "listing_date": "2023-02-23T10:34:33.288077+00:00"
+        }
+      ],
+      "name": "HECO_MAINNET",
+      "display_name": "Huobi Eco Chain",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/heco_mainnet.png",
+      "chain_id": "128",
+      "node_url": "https://http-mainnet.hecochain.com",
+      "type": "evm",
+      "transaction_explorer_template": "https://www.hecoinfo.com/en-us/tx/{0}",
+      "account_explorer_template": "https://www.hecoinfo.com/en-us/address/{0}",
+      "token": {
+        "symbol": "HT",
+        "display_asset": "HT",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/ht.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 0.470005,
+        "precision": 8,
+        "listing_date": "2023-08-01T18:54:45.790489+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-02-22T20:00:00+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "GOG",
+          "display_asset": "GOG",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/gog.png",
+          "contract": "0x9ab7bb7fdc60f4357ecfef43986818a2a3569c62",
+          "decimals": 18,
+          "price_in_usd": 0.0318231,
+          "precision": 8,
+          "listing_date": "2024-05-29T13:03:16.618+00:00"
+        },
+        {
+          "symbol": "IMX",
+          "display_asset": "IMX",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/imx.png",
+          "contract": "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
+          "decimals": 18,
+          "price_in_usd": 1.22,
+          "precision": 8,
+          "listing_date": "2023-02-01T13:53:37.541761+00:00"
+        },
+        {
+          "symbol": "CTA",
+          "display_asset": "CTA",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/cta.png",
+          "contract": "0x90685e300a4c4532efcefe91202dfe1dfd572f47",
+          "decimals": 18,
+          "price_in_usd": 0.111074,
+          "precision": 8,
+          "listing_date": "2024-05-15T10:59:43.650037+00:00"
+        },
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2022-04-05T15:29:29.812+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-02-01T13:53:59.943835+00:00"
+        }
+      ],
+      "name": "IMMUTABLEX_MAINNET",
+      "display_name": "ImmutableX",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/immutablex_mainnet.png",
+      "chain_id": "mainnet",
+      "node_url": "https://api.x.immutable.com",
+      "type": "starkex",
+      "transaction_explorer_template": "https://immutascan.io/tx/{0}",
+      "account_explorer_template": "https://immutascan.io/address/{0}",
+      "token": null,
+      "metadata": {
+        "listing_date": "2022-04-04T20:00:00+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": "0x52A6c53869Ce09a731CD772f245b97A4401d3348",
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2024-04-01T14:36:27.326107+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0x6de8aCC0D406837030CE4dd28e7c08C5a96a30d2",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2024-04-18T12:09:22.823311+00:00"
+        },
+        {
+          "symbol": "GOG",
+          "display_asset": "GOG",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/gog.png",
+          "contract": "0xb00ed913aAFf8280C17BfF33CcE82fE6D79e85e8",
+          "decimals": 18,
+          "price_in_usd": 0.0318231,
+          "precision": 8,
+          "listing_date": "2024-05-29T13:03:16.618+00:00"
+        },
+        {
+          "symbol": "IMX",
+          "display_asset": "IMX",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/imx.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 1.22,
+          "precision": 8,
+          "listing_date": "2024-05-29T13:03:16.618+00:00"
+        }
+      ],
+      "name": "IMMUTABLEZK_MAINNET",
+      "display_name": "Immutable zkEVM ",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/immutablezk_mainnet.png",
+      "chain_id": "13371",
+      "node_url": "https://rpc.immutable.com",
+      "type": "evm",
+      "transaction_explorer_template": "https://explorer.immutable.com/tx/{0}",
+      "account_explorer_template": "https://explorer.immutable.com/address/{0}",
+      "token": {
+        "symbol": "IMX",
+        "display_asset": "IMX",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/imx.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 1.22,
+        "precision": 8,
+        "listing_date": "2024-05-29T13:03:16.618+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-03-28T15:00:32.144336+00:00",
+        "evm_multicall_contract": "0xcA11bde05977b3631167028862bE2a173976CA11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0x980a5afef3d17ad98635f6c5aebcbaeded3c3430",
+          "decimals": 18,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-02-21T17:25:18.3825+00:00"
+        },
+        {
+          "symbol": "KCS",
+          "display_asset": "KCS",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/kcs.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 7.79,
+          "precision": 8,
+          "listing_date": "2023-08-01T18:54:45.790489+00:00"
+        },
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48",
+          "decimals": 18,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2023-02-21T17:25:38.413983+00:00"
+        },
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": "0xf55af137a98607f7ed2efefa4cd2dfe70e4253b1",
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2023-02-23T10:31:54.65656+00:00"
+        }
+      ],
+      "name": "KCC_MAINNET",
+      "display_name": "KCC",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/kcc_mainnet.png",
+      "chain_id": "321",
+      "node_url": "https://rpc-mainnet.kcc.network",
+      "type": "evm",
+      "transaction_explorer_template": "https://explorer.kcc.io/en/tx/{0}",
+      "account_explorer_template": "https://explorer.kcc.io/en/address/{0}",
+      "token": {
+        "symbol": "KCS",
+        "display_asset": "KCS",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/kcs.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 7.79,
+        "precision": 8,
+        "listing_date": "2023-08-01T18:54:45.790489+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-02-20T20:00:00+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2024-05-14T16:33:52.385178+00:00"
+        }
+      ],
+      "name": "KROMA_MAINNET",
+      "display_name": "Kroma",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/kroma_mainnet.png",
+      "chain_id": "255",
+      "node_url": "https://1rpc.io/6TjdZ2fq2SjBnv8o/kroma",
+      "type": "evm",
+      "transaction_explorer_template": "https://kromascan.com/tx/{0}",
+      "account_explorer_template": "https://kromascan.com/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2024-05-14T16:33:52.385178+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-05-14T16:28:35.529733+00:00",
+        "evm_oracle_contract": "0x4200000000000000000000000000000000000005"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2024-04-01T13:26:09.160695+00:00"
+        }
+      ],
+      "name": "LIGHTLINK_MAINNET",
+      "display_name": "LightLink",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/lightlink_mainnet.png",
+      "chain_id": "1890",
+      "node_url": "https://replicator.phoenix.lightlink.io/rpc/v1",
+      "type": "evm",
+      "transaction_explorer_template": "https://phoenix.lightlink.io/tx/{0}",
+      "account_explorer_template": "https://phoenix.lightlink.io/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2024-04-01T13:26:09.160695+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-04-01T13:12:54.772789+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2023-07-18T14:01:38.547693+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-08-10T09:11:54.397192+00:00"
+        }
+      ],
+      "name": "LINEA_MAINNET",
+      "display_name": "Linea",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/linea_mainnet.png",
+      "chain_id": "59144",
+      "node_url": "https://rpc.linea.build",
+      "type": "evm",
+      "transaction_explorer_template": "https://lineascan.build/tx/{0}",
+      "account_explorer_template": "https://lineascan.build/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2023-07-18T14:01:38.547693+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-07-17T20:00:00+00:00",
+        "evm_multicall_contract": "0xcA11bde05977b3631167028862bE2a173976CA11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": "0",
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 7,
+          "listing_date": "2022-01-07T13:59:52.164015+00:00"
+        },
+        {
+          "symbol": "IMX",
+          "display_asset": "IMX",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/imx.png",
+          "contract": "255",
+          "decimals": 18,
+          "price_in_usd": 1.22,
+          "precision": 3,
+          "listing_date": "2023-04-02T16:05:48.686358+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "6",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 5,
+          "listing_date": "2022-02-22T23:03:45.703977+00:00"
+        },
+        {
+          "symbol": "LRC",
+          "display_asset": "LRC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/lrc.png",
+          "contract": "1",
+          "decimals": 18,
+          "price_in_usd": 0.114633,
+          "precision": 3,
+          "listing_date": "2022-01-17T18:54:41.842691+00:00"
+        },
+        {
+          "symbol": "BKT",
+          "display_asset": "BKT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/bkt.png",
+          "contract": "240",
+          "decimals": 18,
+          "price_in_usd": 0.00018693,
+          "precision": 7,
+          "listing_date": "2022-05-25T14:21:27.516812+00:00"
+        }
+      ],
+      "name": "LOOPRING_MAINNET",
+      "display_name": "Loopring",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/loopring_mainnet.png",
+      "chain_id": "1",
+      "node_url": "https://api3.loopring.io/api/v3",
+      "type": "zksynclite",
+      "transaction_explorer_template": "https://explorer.loopring.io/tx/{0}-transfer",
+      "account_explorer_template": "https://explorer.loopring.io/account/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": "0",
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 7,
+        "listing_date": "2022-01-07T13:59:52.164015+00:00"
+      },
+      "metadata": {
+        "listing_date": "2022-01-06T20:00:00+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-10-12T15:02:50.345799+00:00"
+        },
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2023-09-12T14:23:20.102169+00:00"
+        }
+      ],
+      "name": "MANTA_MAINNET",
+      "display_name": "Manta Pacific",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/manta_mainnet.png",
+      "chain_id": "169",
+      "node_url": "https://pacific-rpc.manta.network/http",
+      "type": "evm",
+      "transaction_explorer_template": "https://manta-pacific.calderaexplorer.xyz/tx/{0}",
+      "account_explorer_template": "https://manta-pacific.calderaexplorer.xyz/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2023-09-12T14:23:20.102169+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-09-11T20:00:00+00:00",
+        "evm_oracle_contract": "0x420000000000000000000000000000000000000F"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111",
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2023-08-08T09:28:25.399322+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2024-05-13T11:25:37.989033+00:00"
+        },
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
+          "decimals": 6,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2024-05-13T10:54:06.702761+00:00"
+        },
+        {
+          "symbol": "MNT",
+          "display_asset": "MNT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/mnt.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 0.550473,
+          "precision": 8,
+          "listing_date": "2023-08-08T09:28:25.088508+00:00"
+        }
+      ],
+      "name": "MANTLE_MAINNET",
+      "display_name": "Mantle",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/mantle_mainnet.png",
+      "chain_id": "5000",
+      "node_url": "https://rpc.mantle.xyz",
+      "type": "evm",
+      "transaction_explorer_template": "https://explorer.mantle.xyz/tx/{0}",
+      "account_explorer_template": "https://explorer.mantle.xyz/address/{0}",
+      "token": {
+        "symbol": "MNT",
+        "display_asset": "MNT",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/mnt.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 0.550473,
+        "precision": 8,
+        "listing_date": "2023-08-08T09:28:25.088508+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-08-07T20:00:00+00:00",
+        "evm_oracle_contract": "0x420000000000000000000000000000000000000F",
+        "evm_multicall_contract": "0xcA11bde05977b3631167028862bE2a173976CA11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2024-06-27T16:54:47.704298+00:00"
+        }
+      ],
+      "name": "MINT_MAINNET",
+      "display_name": "Mint",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/mint_mainnet.png",
+      "chain_id": "185",
+      "node_url": "https://rpc.mintchain.io",
+      "type": "evm",
+      "transaction_explorer_template": "https://explorer.mintchain.io/tx/{0}",
+      "account_explorer_template": "https://explorer.mintchain.io/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2024-06-27T16:54:47.704298+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-06-27T16:51:34.446019+00:00",
+        "evm_oracle_contract": "0x420000000000000000000000000000000000000F"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2024-02-22T14:39:20.526325+00:00"
+        }
+      ],
+      "name": "MODE_MAINNET",
+      "display_name": "Mode",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/mode_mainnet.png",
+      "chain_id": "34443",
+      "node_url": "https://mode-mainnet.public.blastapi.io",
+      "type": "evm",
+      "transaction_explorer_template": "https://explorer.mode.network/tx/{0}",
+      "account_explorer_template": "https://explorer.mode.network/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2024-02-22T14:39:20.526325+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-02-22T14:29:54.438957+00:00",
+        "evm_oracle_contract": "0x420000000000000000000000000000000000000F"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2024-06-18T16:18:22.812651+00:00"
+        }
+      ],
+      "name": "NAHMII_MAINNET",
+      "display_name": "Nahmii",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/nahmii_mainnet.png",
+      "chain_id": "4061",
+      "node_url": "https://rpc.n3.nahmii.io",
+      "type": "evm",
+      "transaction_explorer_template": "https://explorer.nahmii.io/tx/{0}",
+      "account_explorer_template": "https://explorer.nahmii.io/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2024-06-18T16:18:22.812651+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-02-22T14:29:54.365148+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": "0xEF71CA2EE68F45B9Ad6F72fbdb33d707b872315C",
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2023-03-30T14:55:10.62332+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85",
+          "decimals": 18,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-02-23T14:03:08.452976+00:00"
+        },
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "decimals": 18,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2023-02-23T14:03:08.53372+00:00"
+        },
+        {
+          "symbol": "OKT",
+          "display_asset": "OKT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/okt.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 6.48,
+          "precision": 8,
+          "listing_date": "2023-08-01T18:54:45.790489+00:00"
+        }
+      ],
+      "name": "OKC_MAINNET",
+      "display_name": "OKT Chain (OKTC)",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/okc_mainnet.png",
+      "chain_id": "66",
+      "node_url": "https://oktc-mainnet.blastapi.io/0087e28f-aeff-41d3-8f42-0d46f40509c9",
+      "type": "evm",
+      "transaction_explorer_template": "https://www.oklink.com/en/okc/tx/{0}",
+      "account_explorer_template": "https://www.oklink.com/oktc/address/{0}",
+      "token": {
+        "symbol": "OKT",
+        "display_asset": "OKT",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/okt.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 6.48,
+        "precision": 8,
+        "listing_date": "2023-08-01T18:54:45.790489+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-02-22T20:00:00+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2023-09-22T09:10:20.368405+00:00"
+        },
+        {
+          "symbol": "BNB",
+          "display_asset": "BNB",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/bnb.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 541.33,
+          "precision": 8,
+          "listing_date": "2023-09-22T09:11:46.963172+00:00"
+        }
+      ],
+      "name": "OPBNB_MAINNET",
+      "display_name": "opBNB",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/opbnb_mainnet.png",
+      "chain_id": "204",
+      "node_url": "https://opbnb-mainnet-rpc.bnbchain.org",
+      "type": "evm",
+      "transaction_explorer_template": "https://opbnbscan.com/tx/{0}",
+      "account_explorer_template": "https://opbnbscan.com/address/{0}",
+      "token": {
+        "symbol": "BNB",
+        "display_asset": "BNB",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/bnb.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 541.33,
+        "precision": 8,
+        "listing_date": "2023-09-22T09:11:46.963172+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-09-21T20:00:00+00:00",
+        "evm_oracle_contract": "0x420000000000000000000000000000000000000F"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2021-11-23T14:28:30.457469+00:00"
+        },
+        {
+          "symbol": "USDC.e",
+          "display_asset": "USDC.e",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.e.png",
+          "contract": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+          "decimals": 6,
+          "price_in_usd": 1.001,
+          "precision": 6,
+          "listing_date": "2022-04-20T13:54:28.688504+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2022-04-20T13:54:28.688504+00:00"
+        },
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+          "decimals": 6,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2023-01-12T13:57:47.571206+00:00"
+        },
+        {
+          "symbol": "OP",
+          "display_asset": "OP",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/op.png",
+          "contract": "0x4200000000000000000000000000000000000042",
+          "decimals": 18,
+          "price_in_usd": 1.45,
+          "precision": 8,
+          "listing_date": "2023-09-11T12:25:53.876516+00:00"
+        },
+        {
+          "symbol": "SNX",
+          "display_asset": "SNX",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/snx.png",
+          "contract": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+          "decimals": 18,
+          "price_in_usd": 1.34,
+          "precision": 8,
+          "listing_date": "2022-08-19T17:35:43.578187+00:00"
+        }
+      ],
+      "name": "OPTIMISM_MAINNET",
+      "display_name": "Optimism",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/optimism_mainnet.png",
+      "chain_id": "10",
+      "node_url": "https://optimism-mainnet.public.blastapi.io",
+      "type": "evm",
+      "transaction_explorer_template": "https://optimistic.etherscan.io/tx/{0}",
+      "account_explorer_template": "https://optimistic.etherscan.io/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2021-11-23T14:28:30.457469+00:00"
+      },
+      "metadata": {
+        "listing_date": "2021-10-05T20:00:00+00:00",
+        "evm_oracle_contract": "0x420000000000000000000000000000000000000F",
+        "evm_multicall_contract": "0xca11bde05977b3631167028862be2a173976ca11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "OSMO",
+          "display_asset": "OSMO",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/osmo.png",
+          "contract": "uosmo",
+          "decimals": 6,
+          "price_in_usd": 0.419533,
+          "precision": 8,
+          "listing_date": "2023-08-01T18:54:45.790489+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-02-01T13:53:59.943835+00:00"
+        }
+      ],
+      "name": "OSMOSIS_MAINNET",
+      "display_name": "Osmosis",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/osmosis_mainnet.png",
+      "chain_id": "osmosis-1",
+      "node_url": "https://osmosis-rpc.publicnode.com:443",
+      "type": "cosmos",
+      "transaction_explorer_template": "https://mintscan.io/osmosis/txs/{0}",
+      "account_explorer_template": "https://www.mintscan.io/osmosis/account/{0}",
+      "token": {
+        "symbol": "OSMO",
+        "display_asset": "OSMO",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/osmo.png",
+        "contract": "uosmo",
+        "decimals": 6,
+        "price_in_usd": 0.419533,
+        "precision": 8,
+        "listing_date": "2023-08-01T18:54:45.790489+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-01-15T20:00:00+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0x07348407ebad690fec0cc8597e87dc16ef7b269a655ff72587dafff83d462be2",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2024-07-09T09:08:16.519939+00:00"
+        }
+      ],
+      "name": "PARADEX_MAINNET",
+      "display_name": "Paradex",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/paradex_mainnet.png",
+      "chain_id": "mainnet",
+      "node_url": "https://pathfinder.api.prod.paradex.trade/rpc/v0_7",
+      "type": "starknet",
+      "transaction_explorer_template": "https://voyager.prod.paradex.trade/tx/{0}",
+      "account_explorer_template": "https://voyager.prod.paradex.trade/contract/{0}",
+      "token": null,
+      "metadata": {
+        "listing_date": "2024-07-09T08:59:28.000808+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2023-08-07T10:54:19.24858+00:00"
+        }
+      ],
+      "name": "PGN_MAINNET",
+      "display_name": "Public Goods Network",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/pgn_mainnet.png",
+      "chain_id": "424",
+      "node_url": "https://rpc.publicgoods.network",
+      "type": "evm",
+      "transaction_explorer_template": "https://explorer.publicgoods.network/tx/{0}",
+      "account_explorer_template": "https://explorer.publicgoods.network/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2023-08-07T10:54:19.24858+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-08-06T20:00:00+00:00",
+        "evm_oracle_contract": "0x420000000000000000000000000000000000000F"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2023-03-27T13:55:45.566712+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-03-27T13:55:45.405623+00:00"
+        },
+        {
+          "symbol": "USDC.e",
+          "display_asset": "USDC.e",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.e.png",
+          "contract": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+          "decimals": 6,
+          "price_in_usd": 1.001,
+          "precision": 6,
+          "listing_date": "2023-03-27T13:55:45.405623+00:00"
+        },
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+          "decimals": 6,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2024-04-18T11:35:37.94453+00:00"
+        },
+        {
+          "symbol": "DAI",
+          "display_asset": "",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/dai.png",
+          "contract": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+          "decimals": 18,
+          "price_in_usd": 0.998884,
+          "precision": 8,
+          "listing_date": "2024-09-06T13:15:50.114797+00:00"
+        },
+        {
+          "symbol": "MATIC",
+          "display_asset": "MATIC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/matic.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 0.378297,
+          "precision": 8,
+          "listing_date": "2023-08-01T18:54:45.790489+00:00"
+        },
+        {
+          "symbol": "SNX",
+          "display_asset": "SNX",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/snx.png",
+          "contract": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+          "decimals": 18,
+          "price_in_usd": 1.34,
+          "precision": 8,
+          "listing_date": "2024-02-02T10:48:05.635428+00:00"
+        }
+      ],
+      "name": "POLYGON_MAINNET",
+      "display_name": "Polygon",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/polygon_mainnet.png",
+      "chain_id": "137",
+      "node_url": "https://polygon-mainnet.public.blastapi.io",
+      "type": "evm",
+      "transaction_explorer_template": "https://polygonscan.com/tx/{0}",
+      "account_explorer_template": "https://polygonscan.com/address/{0}",
+      "token": {
+        "symbol": "MATIC",
+        "display_asset": "MATIC",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/matic.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 0.378297,
+        "precision": 8,
+        "listing_date": "2023-08-01T18:54:45.790489+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-03-26T20:00:00+00:00",
+        "evm_multicall_contract": "0xca11bde05977b3631167028862be2a173976ca11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2023-03-30T15:15:44.301517+00:00"
+        },
+        {
+          "symbol": "USDC.e",
+          "display_asset": "USDC.e",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.e.png",
+          "contract": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
+          "decimals": 6,
+          "price_in_usd": 1.001,
+          "precision": 6,
+          "listing_date": "2024-05-21T12:02:38.85684+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-09-14T16:21:21.98661+00:00"
+        }
+      ],
+      "name": "POLYGONZK_MAINNET",
+      "display_name": "Polygon zkEVM",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/polygonzk_mainnet.png",
+      "chain_id": "1101",
+      "node_url": "https://polygon-zkevm-mainnet.public.blastapi.io",
+      "type": "evm",
+      "transaction_explorer_template": "https://zkevm.polygonscan.com/tx/{0}",
+      "account_explorer_template": "https://zkevm.polygonscan.com/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2023-03-30T15:15:44.301517+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-03-29T20:00:00+00:00",
+        "evm_multicall_contract": "0xca11bde05977b3631167028862be2a173976ca11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2024-05-08T15:54:26.660981+00:00"
+        }
+      ],
+      "name": "REDSTONE_MAINNET",
+      "display_name": "Redstone",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/redstone_mainnet.png",
+      "chain_id": "690",
+      "node_url": "https://rpc.redstonechain.com",
+      "type": "evm",
+      "transaction_explorer_template": "https://explorer.redstone.xyz/tx/{0}",
+      "account_explorer_template": "https://explorer.redstone.xyz/addess/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2024-05-08T15:54:26.660981+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-05-08T15:48:25.309459+00:00",
+        "evm_oracle_contract": "0x420000000000000000000000000000000000000F",
+        "evm_multicall_contract": "0xcA11bde05977b3631167028862bE2a173976CA11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": null,
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2022-06-24T17:31:22.76789+00:00"
+        },
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2022-07-14T20:27:56.699388+00:00"
+        },
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": null,
+          "decimals": 6,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2023-03-02T13:49:51.149688+00:00"
+        }
+      ],
+      "name": "RHINOFI_MAINNET",
+      "display_name": "rhino.fi",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/rhinofi_mainnet.png",
+      "chain_id": null,
+      "node_url": "https://api.rhino.fi",
+      "type": "starkex",
+      "transaction_explorer_template": "https://app.rhino.fi/account/transfers/{0}",
+      "account_explorer_template": "https://app.rhino.fi/account",
+      "token": null,
+      "metadata": {
+        "listing_date": "2022-06-23T20:00:00+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": "0xaa1c53afd099e415208f47fcfa2c880f659e6904",
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2023-09-12T15:27:22.104299+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0x368433CaC2A0B8D76E64681a9835502a1f2A8A30",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-08-23T17:56:52.246842+00:00"
+        },
+        {
+          "symbol": "SYS",
+          "display_asset": "SYS",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/sys.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 0.10076,
+          "precision": 8,
+          "listing_date": "2023-08-23T17:56:52.168079+00:00"
+        }
+      ],
+      "name": "ROLLUX_MAINNET",
+      "display_name": "Rollux",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/rollux_mainnet.png",
+      "chain_id": "570",
+      "node_url": "https://rpc.rollux.com\t",
+      "type": "evm",
+      "transaction_explorer_template": "https://explorer.rollux.com/tx/{0}",
+      "account_explorer_template": "https://explorer.rollux.com/address/{}",
+      "token": {
+        "symbol": "SYS",
+        "display_asset": "SYS",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/sys.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 0.10076,
+        "precision": 8,
+        "listing_date": "2023-08-23T17:56:52.168079+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-08-22T20:00:00+00:00",
+        "evm_oracle_contract": "0x420000000000000000000000000000000000000F",
+        "evm_multicall_contract": "0xcA11bde05977b3631167028862bE2a173976CA11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "WETH",
+          "display_asset": "WETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/weth.png",
+          "contract": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+          "decimals": 18,
+          "price_in_usd": 2280.96,
+          "precision": 8,
+          "listing_date": "2024-03-19T16:53:37.517406+00:00"
+        },
+        {
+          "symbol": "RON",
+          "display_asset": "RON",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/ron.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 1.43,
+          "precision": 8,
+          "listing_date": "2024-03-19T17:00:21.055092+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0x0b7007c13325c48911f73a2dad5fa5dcbf808adc",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2024-03-19T16:54:14.602264+00:00"
+        }
+      ],
+      "name": "RONIN_MAINNET",
+      "display_name": "Ronin",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/ronin_mainnet.png",
+      "chain_id": "2020",
+      "node_url": "https://api-gateway.skymavis.com/rpc?apikey=hzLZKPrDuqRz5TAdxywpVEtG8QT9Bt8v",
+      "type": "evm",
+      "transaction_explorer_template": "https://app.roninchain.com/tx/{0}",
+      "account_explorer_template": "https://app.roninchain.com/address/{0}",
+      "token": {
+        "symbol": "RON",
+        "display_asset": "RON",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/ron.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 1.43,
+        "precision": 8,
+        "listing_date": "2024-03-19T17:00:21.055092+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-03-19T16:38:21.615418+00:00",
+        "evm_oracle_contract": "0x16a62a921e7fec5bf867ff5c805b662db757b778"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2023-10-18T16:23:43.399561+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-10-24T16:22:16.795847+00:00"
+        }
+      ],
+      "name": "SCROLL_MAINNET",
+      "display_name": "Scroll",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/scroll_mainnet.png",
+      "chain_id": "534352",
+      "node_url": "https://rpc.scroll.io",
+      "type": "evm",
+      "transaction_explorer_template": "https://scrollscan.com/tx/{0}",
+      "account_explorer_template": "https://scrollscan.com/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2023-10-18T16:23:43.399561+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-10-17T20:00:00+00:00",
+        "evm_oracle_contract": "0x5300000000000000000000000000000000000002",
+        "evm_multicall_contract": "0xcA11bde05977b3631167028862bE2a173976CA11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "WETH",
+          "display_asset": "WETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/weth.png",
+          "contract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+          "decimals": 6,
+          "price_in_usd": 2280.96,
+          "precision": 8,
+          "listing_date": "2023-02-21T13:05:40.147669+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-02-21T13:05:40.147669+00:00"
+        },
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "decimals": 6,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2024-05-13T10:52:26.198951+00:00"
+        },
+        {
+          "symbol": "SOL",
+          "display_asset": "SOL",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/sol.png",
+          "contract": null,
+          "decimals": 9,
+          "price_in_usd": 130.44,
+          "precision": 8,
+          "listing_date": "2023-09-14T16:44:58.549571+00:00"
+        }
+      ],
+      "name": "SOLANA_MAINNET",
+      "display_name": "Solana",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/solana_mainnet.png",
+      "chain_id": "",
+      "node_url": "https://odella-kzfk20-fast-mainnet.helius-rpc.com/",
+      "type": "solana",
+      "transaction_explorer_template": "https://solscan.io/tx/{0}",
+      "account_explorer_template": "https://solscan.io/account/{0}",
+      "token": {
+        "symbol": "SOL",
+        "display_asset": "SOL",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/sol.png",
+        "contract": null,
+        "decimals": 9,
+        "price_in_usd": 130.44,
+        "precision": 8,
+        "listing_date": "2023-09-14T16:44:58.549571+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-02-20T20:00:00+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "STRK",
+          "display_asset": "STRK",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/strk.png",
+          "contract": "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d",
+          "decimals": 18,
+          "price_in_usd": 0.374894,
+          "precision": 8,
+          "listing_date": "2024-07-10T14:51:41.783071+00:00"
+        },
+        {
+          "symbol": "DAIv0",
+          "display_asset": "DAI v0",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/daiv0.png",
+          "contract": "0x00da114221cb83fa859dbdb4c44beeaa0bb37c7537ad5ae66fe5e0efd20e6eb3",
+          "decimals": 18,
+          "price_in_usd": 0.998884,
+          "precision": 8,
+          "listing_date": "2024-01-29T09:41:43.426487+00:00"
+        },
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": "0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7",
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2022-05-30T13:07:01.946576+00:00"
+        },
+        {
+          "symbol": "DAI",
+          "display_asset": "DAI",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/dai.png",
+          "contract": "0x05574eb6b8789a91466f902c380d978e472db68170ff82a5b650b95a58ddf4ad",
+          "decimals": 18,
+          "price_in_usd": 0.998884,
+          "precision": 8,
+          "listing_date": "2024-01-29T09:41:43.71452+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0x053c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2023-03-13T13:26:21.210657+00:00"
+        },
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "0x068f5c6a61780768455de69077e07e89787839bf8166decfbf92b645209c0fb8",
+          "decimals": 6,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2023-03-13T13:26:21.210657+00:00"
+        }
+      ],
+      "name": "STARKNET_MAINNET",
+      "display_name": "Starknet",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/starknet_mainnet.png",
+      "chain_id": "0x534e5f4d41494e",
+      "node_url": "https://starknet-mainnet.blastapi.io/0087e28f-aeff-41d3-8f42-0d46f40509c9/rpc/v0_7",
+      "type": "starknet",
+      "transaction_explorer_template": "https://starkscan.co/tx/{0}",
+      "account_explorer_template": "https://starkscan.co/contract/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": "0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7",
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2022-05-30T13:07:01.946576+00:00"
+      },
+      "metadata": {
+        "listing_date": "2022-05-28T20:00:00+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2024-05-27T17:49:03.360707+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "0x07d83526730c7438048D55A4fc0b850e2aaB6f0b",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2024-08-28T12:05:19.0944+00:00"
+        }
+      ],
+      "name": "TAIKO_MAINNET",
+      "display_name": "Taiko",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/taiko_mainnet.png",
+      "chain_id": "167000",
+      "node_url": "https://rpc.mainnet.taiko.xyz",
+      "type": "evm",
+      "transaction_explorer_template": "https://taikoscan.io/tx/{0}",
+      "account_explorer_template": "https://taikoscan.io/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2024-05-27T17:49:03.360707+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-05-27T17:43:04.09474+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+          "decimals": 6,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2024-04-18T11:21:42.477+00:00"
+        },
+        {
+          "symbol": "TON",
+          "display_asset": "TON",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/ton.png",
+          "contract": null,
+          "decimals": 9,
+          "price_in_usd": 5.44,
+          "precision": 8,
+          "listing_date": "2023-10-31T15:18:11.206931+00:00"
+        }
+      ],
+      "name": "TON_MAINNET",
+      "display_name": "TON",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/ton_mainnet.png",
+      "chain_id": null,
+      "node_url": null,
+      "type": "ton",
+      "transaction_explorer_template": "https://tonscan.org/tx/{0}",
+      "account_explorer_template": "https://tonscan.org/address/{0}",
+      "token": {
+        "symbol": "TON",
+        "display_asset": "TON",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/ton.png",
+        "contract": null,
+        "decimals": 9,
+        "price_in_usd": 5.44,
+        "precision": 8,
+        "listing_date": "2023-10-31T15:18:11.206931+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-04-30T20:00:00+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+          "decimals": 6,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2024-08-16T17:38:46.635863+00:00"
+        },
+        {
+          "symbol": "TRX",
+          "display_asset": "TRX",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/trx.png",
+          "contract": null,
+          "decimals": 6,
+          "price_in_usd": 0.14904,
+          "precision": 6,
+          "listing_date": "2024-08-16T17:38:38.995464+00:00"
+        }
+      ],
+      "name": "TRON_MAINNET",
+      "display_name": "Tron",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/tron_mainnet.png",
+      "chain_id": null,
+      "node_url": null,
+      "type": "tron",
+      "transaction_explorer_template": "https://tronscan.org/#/transaction/{0}",
+      "account_explorer_template": "https://tronscan.org/#/address/{0}",
+      "token": {
+        "symbol": "TRX",
+        "display_asset": "TRX",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/trx.png",
+        "contract": null,
+        "decimals": 6,
+        "price_in_usd": 0.14904,
+        "precision": 6,
+        "listing_date": "2024-08-16T17:38:38.995464+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-08-16T14:26:16.492839+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2024-05-02T14:57:13.611421+00:00"
+        },
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+          "decimals": 6,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2024-05-13T10:53:38.297906+00:00"
+        },
+        {
+          "symbol": "OKB",
+          "display_asset": "OKB",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/okb.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 37.93,
+          "precision": 8,
+          "listing_date": "2024-05-02T14:58:15.741739+00:00"
+        }
+      ],
+      "name": "XLAYER_MAINNET",
+      "display_name": "X Layer",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/xlayer_mainnet.png",
+      "chain_id": "196",
+      "node_url": "https://endpoints.omniatech.io/v1/xlayer/mainnet/public",
+      "type": "evm",
+      "transaction_explorer_template": "https://www.okx.com/explorer/xlayer/tx/{0}",
+      "account_explorer_template": "https://www.okx.com/explorer/xlayer/address/{0}",
+      "token": {
+        "symbol": "OKB",
+        "display_asset": "OKB",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/okb.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 37.93,
+        "precision": 8,
+        "listing_date": "2024-05-02T14:58:15.741739+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-04-29T14:44:18.912281+00:00",
+        "evm_multicall_contract": "0xca11bde05977b3631167028862be2a173976ca11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": "0xd97B1de3619ed2c6BEb3860147E30cA8A7dC9891",
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2024-05-19T18:32:20.010281+00:00"
+        },
+        {
+          "symbol": "ZETA",
+          "display_asset": "ZETA",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/zeta.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 0.508013,
+          "precision": 8,
+          "listing_date": "2024-05-15T13:45:56.587404+00:00"
+        }
+      ],
+      "name": "ZETACHAIN_MAINNET",
+      "display_name": "Zetachain",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/zetachain_mainnet.png",
+      "chain_id": "7000",
+      "node_url": "https://zetachain-evm.blockpi.network/v1/rpc/public\n",
+      "type": "evm",
+      "transaction_explorer_template": "https://zetachain.blockscout.com/tx/{0}",
+      "account_explorer_template": "https://zetachain.blockscout.com/address/{0}",
+      "token": {
+        "symbol": "ZETA",
+        "display_asset": "ZETA",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/zeta.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 0.508013,
+        "precision": 8,
+        "listing_date": "2024-05-15T13:45:56.587404+00:00"
+      },
+      "metadata": {
+        "listing_date": "2024-05-15T13:20:48.950547+00:00",
+        "evm_multicall_contract": "0xca11bde05977b3631167028862be2a173976ca11"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": null,
+          "decimals": 6,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2022-08-03T14:48:47.031097+00:00"
+        },
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2022-08-03T14:48:47.031097+00:00"
+        },
+        {
+          "symbol": "ZKS",
+          "display_asset": "ZKS",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/zks.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 0.03003976,
+          "precision": 8,
+          "listing_date": "2022-08-03T14:48:47.031097+00:00"
+        }
+      ],
+      "name": "ZKSPACE_MAINNET",
+      "display_name": "ZKSpace",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/zkspace_mainnet.png",
+      "chain_id": "13",
+      "node_url": "https://api.zks.app/v3/1",
+      "type": "zksynclite",
+      "transaction_explorer_template": "https://zkspace.info/transaction/{0}",
+      "account_explorer_template": "https://zkspace.info/account/{0}",
+      "token": null,
+      "metadata": {
+        "listing_date": "2022-08-02T20:00:00+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2023-03-27T13:55:45.690383+00:00"
+        },
+        {
+          "symbol": "USDC.e",
+          "display_asset": "USDC.e",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.e.png",
+          "contract": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+          "decimals": 6,
+          "price_in_usd": 1.001,
+          "precision": 6,
+          "listing_date": "2023-06-13T12:22:00.102899+00:00"
+        },
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+          "decimals": 6,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2023-06-13T12:22:00.102899+00:00"
+        }
+      ],
+      "name": "ZKSYNCERA_MAINNET",
+      "display_name": "zkSync Era",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/zksyncera_mainnet.png",
+      "chain_id": "324",
+      "node_url": "https://mainnet.era.zksync.io",
+      "type": "evm",
+      "transaction_explorer_template": "https://explorer.zksync.io/tx/{0}",
+      "account_explorer_template": "https://explorer.zksync.io/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2023-03-27T13:55:45.690383+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-03-26T20:00:00+00:00",
+        "evm_multicall_contract": "0xF9cda624FBC7e059355ce98a31693d299FACd963"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": "0",
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2021-12-21T16:59:11.139097+00:00"
+        },
+        {
+          "symbol": "USDC",
+          "display_asset": "USDC",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdc.png",
+          "contract": "2",
+          "decimals": 6,
+          "price_in_usd": 0.999102,
+          "precision": 6,
+          "listing_date": "2022-02-08T13:10:39.891258+00:00"
+        },
+        {
+          "symbol": "USDT",
+          "display_asset": "USDT",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/usdt.png",
+          "contract": "4",
+          "decimals": 6,
+          "price_in_usd": 0.999175,
+          "precision": 6,
+          "listing_date": "2024-08-28T12:10:37.362515+00:00"
+        },
+        {
+          "symbol": "DAI",
+          "display_asset": "DAI",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/dai.png",
+          "contract": "1",
+          "decimals": 18,
+          "price_in_usd": 0.998884,
+          "precision": 8,
+          "listing_date": "2024-08-30T15:19:10.574585+00:00"
+        }
+      ],
+      "name": "ZKSYNC_MAINNET",
+      "display_name": "zkSync Lite",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/zksync_mainnet.png",
+      "chain_id": "mainnet",
+      "node_url": "https://api.zksync.io/",
+      "type": "zksynclite",
+      "transaction_explorer_template": "https://zkscan.io/explorer/transactions/{0}",
+      "account_explorer_template": "https://zkscan.io/explorer/accounts/{0}",
+      "token": null,
+      "metadata": {
+        "listing_date": "2021-12-20T20:00:00+00:00"
+      }
+    },
+    {
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "display_asset": "ETH",
+          "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+          "contract": null,
+          "decimals": 18,
+          "price_in_usd": 2282.82,
+          "precision": 8,
+          "listing_date": "2023-08-17T11:40:05.145471+00:00"
+        }
+      ],
+      "name": "ZORA_MAINNET",
+      "display_name": "Zora",
+      "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/networks/zora_mainnet.png",
+      "chain_id": "7777777",
+      "node_url": "https://rpc.zora.energy",
+      "type": "evm",
+      "transaction_explorer_template": "https://explorer.zora.energy/tx/{0}",
+      "account_explorer_template": "https://explorer.zora.energy/address/{0}",
+      "token": {
+        "symbol": "ETH",
+        "display_asset": "ETH",
+        "logo": "https://prodlslayerswapbridgesa.blob.core.windows.net/layerswap/currencies/eth.png",
+        "contract": null,
+        "decimals": 18,
+        "price_in_usd": 2282.82,
+        "precision": 8,
+        "listing_date": "2023-08-17T11:40:05.145471+00:00"
+      },
+      "metadata": {
+        "listing_date": "2023-08-15T20:00:00+00:00",
+        "evm_oracle_contract": "0x420000000000000000000000000000000000000F",
+        "evm_multicall_contract": "0xcA11bde05977b3631167028862bE2a173976CA11"
+      }
+    }
+  ]
+}

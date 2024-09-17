@@ -1,0 +1,148 @@
+[
+  {
+    "id": 56,
+    "name": "Binance Smart Chain",
+    "wowmaxRouter": "0x171855f9978265D45A70f59BF161AEEBfA9b0489",
+    "nativeCurrency": {
+      "name": "BNB",
+      "decimals": 18,
+      "wrappedAddress": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+    },
+    "blockExplorerUrl": "https://bscscan.com"
+  },
+  {
+    "id": 25,
+    "name": "Cronos",
+    "wowmaxRouter": "0x55b5b0562FB3Da3b4108145Cd30e6d3b6E16c69C",
+    "nativeCurrency": {
+      "name": "CRO",
+      "decimals": 18,
+      "wrappedAddress": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23"
+    },
+    "blockExplorerUrl": "https://cronoscan.com"
+  },
+  {
+    "id": 1,
+    "name": "Mainnet",
+    "wowmaxRouter": "0xb9c9e445409eae3295C170194B02e1c8b02EA8fA",
+    "nativeCurrency": {
+      "name": "ETH",
+      "decimals": 18,
+      "wrappedAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    },
+    "blockExplorerUrl": "https://etherscan.io"
+  },
+  {
+    "id": 8453,
+    "name": "Base",
+    "wowmaxRouter": "0x8aef80Eb5fc616d98a26ab275A96aa0f8585D295",
+    "nativeCurrency": {
+      "name": "ETH",
+      "decimals": 18,
+      "wrappedAddress": "0x4200000000000000000000000000000000000006"
+    },
+    "blockExplorerUrl": "https://basescan.org"
+  },
+  {
+    "id": 59144,
+    "name": "Linea",
+    "wowmaxRouter": "0x2532527F0c091F4aEbbE55847D16e3F4C6797F6C",
+    "nativeCurrency": {
+      "name": "ETH",
+      "decimals": 18,
+      "wrappedAddress": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f"
+    },
+    "blockExplorerUrl": "https://lineascan.build",
+    "wethOutputSupported": true
+  },
+  {
+    "id": 534352,
+    "name": "Scroll",
+    "wowmaxRouter": "0x5a34D58DE6991A1D6758F6695BBe34A13B1Af57d",
+    "nativeCurrency": {
+      "name": "ETH",
+      "decimals": 18,
+      "wrappedAddress": "0x5300000000000000000000000000000000000004"
+    },
+    "blockExplorerUrl": "https://scrollscan.com",
+    "wethOutputSupported": true
+  },
+  {
+    "id": 169,
+    "name": "Manta Pacific",
+    "wowmaxRouter": "0xDC876a48C4Cb34eC889D8fe678e46593Ad72Da0f",
+    "nativeCurrency": {
+      "name": "ETH",
+      "decimals": 18,
+      "wrappedAddress": "0x0dc808adce2099a9f62aa87d9670745aba741746"
+    },
+    "blockExplorerUrl": "https://manta.socialscan.io"
+  },
+  {
+    "id": 81457,
+    "name": "Blast",
+    "wowmaxRouter": "0xca63f155EaD7b40e2E67Dc5f7E8cA50BFB283FD0",
+    "nativeCurrency": {
+      "name": "ETH",
+      "decimals": 18,
+      "wrappedAddress": "0x4300000000000000000000000000000000000004"
+    },
+    "blockExplorerUrl": "https://blastscan.io"
+  },
+  {
+    "id": 1088,
+    "name": "Metis",
+    "wowmaxRouter": "0x03C984217eef0d93c2a79B1BeC88cd61aC07b706",
+    "nativeCurrency": {
+      "name": "METIS",
+      "decimals": 18,
+      "wrappedAddress": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481"
+    },
+    "blockExplorerUrl": "https://explorer.metis.io"
+  },
+  {
+    "id": 196,
+    "name": "X Layer",
+    "wowmaxRouter": "0xca63f155EaD7b40e2E67Dc5f7E8cA50BFB283FD0",
+    "nativeCurrency": {
+      "name": "OKB",
+      "decimals": 18,
+      "wrappedAddress": "0xe538905cf8410324e03a5a23c1c177a474d59b2b"
+    },
+    "blockExplorerUrl": "https://www.okx.com/explorer/xlayer"
+  },
+  {
+    "id": 42161,
+    "name": "Arbitrum One",
+    "wowmaxRouter": "0x227fCe9d69e63306DdCa4c7bC802525dc7BDD1E0",
+    "nativeCurrency": {
+      "name": "ETH",
+      "decimals": 18,
+      "wrappedAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+    },
+    "blockExplorerUrl": "https://arbiscan.io",
+    "wethOutputSupported": true
+  },
+  {
+    "id": 7000,
+    "name": "Zeta Chain",
+    "wowmaxRouter": "0x2539100fAA6D9A304c5d87Ad8131644559B08450",
+    "nativeCurrency": {
+      "name": "ZETA",
+      "decimals": 18,
+      "wrappedAddress": "0x5f0b1a82749cb4e2278ec87f8bf6b618dc71a8bf"
+    },
+    "blockExplorerUrl": "https://explorer.zetachain.com"
+  },
+  {
+    "id": 137,
+    "name": "Polygon Mainnet",
+    "wowmaxRouter": "0xFAae2D6De03ABE1b3Cef464D81aED6e4d28524EA",
+    "nativeCurrency": {
+      "name": "MATIC",
+      "decimals": 18,
+      "wrappedAddress": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+    },
+    "blockExplorerUrl": "https://polygonscan.com"
+  }
+]
